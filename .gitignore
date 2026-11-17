@@ -1,0 +1,13 @@
+!01_Raw_Research/.gitkeep
+!01_Raw_Research/_archive/.gitkeep
+!02_Curated_Data/.gitkeep
+*.pyc
+.DS_Store
+.env
+.venv/
+01_Raw_Research/*.json
+01_Raw_Research/_archive/*.json
+02_Curated_Data/*
+__pycache__/
+orchestrator.log
+venv/

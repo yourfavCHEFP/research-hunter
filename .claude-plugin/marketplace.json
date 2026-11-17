@@ -1,0 +1,15 @@
+{
+  "name": "research-hunter",
+  "description": "Evidence-first claim verification with fetched snapshots, SHA-256, quoted spans, and PASS/FAIL/UNVERIFIABLE verdicts.",
+  "owner": {
+    "name": "yourfavCHEFP",
+    "url": "https://github.com/yourfavCHEFP"
+  },
+  "plugins": [
+    {
+      "name": "research-hunter",
+      "source": "./",
+      "description": "Evidence-backed claim verification MCP tools for Claude Code."
+    }
+  ]
+}

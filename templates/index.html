@@ -1,0 +1,230 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Research Hunter</title>
+<style>
+  :root{
+    --bg:#0A0A0A; --panel:#121212; --panel-2:#161616; --line:#232323;
+    --cyan:#00D4FF; --gold:#FFD700;
+    --text:rgba(255,255,255,0.80); --text-hi:rgba(255,255,255,0.98); --text-lo:rgba(255,255,255,0.45);
+    --green:#7CFF8A; --amber:#FFB020; --red:#ff6b6b;
+    --mono: ui-monospace, "SF Mono", "JetBrains Mono", Menlo, Consolas, monospace;
+    --sans: -apple-system, "Inter", "Helvetica Neue", Arial, sans-serif;
+  }
+  *{box-sizing:border-box;}
+  html,body{margin:0;background:var(--bg);color:var(--text);font-family:var(--sans);}
+  .wrap{max-width:1100px;margin:0 auto;padding:36px 24px 80px;}
+  header{border-bottom:1px solid var(--line);padding-bottom:20px;margin-bottom:24px;}
+  .eyebrow{font-family:var(--mono);font-size:11px;letter-spacing:.18em;color:var(--cyan);text-transform:uppercase;margin-bottom:8px;}
+  h1{font-size:26px;color:var(--text-hi);margin:0 0 6px;font-weight:600;}
+  .sub{color:var(--text-lo);font-size:13px;}
+  .contact-warning{margin-top:12px;padding:10px 14px;background:rgba(255,176,32,0.08);border:1px solid rgba(255,176,32,0.3);border-radius:3px;font-size:12px;color:var(--amber);font-family:var(--mono);}
+
+  .search-row{display:flex;gap:10px;margin:24px 0 16px;}
+  #query{flex:1;background:var(--panel-2);border:1px solid var(--line);color:var(--text-hi);padding:12px 14px;font-size:14px;border-radius:3px;}
+  #query:focus{outline:1px solid var(--cyan);}
+  #limit{width:90px;background:var(--panel-2);border:1px solid var(--line);color:var(--text);padding:12px 8px;border-radius:3px;font-family:var(--mono);}
+  #searchBtn{background:var(--cyan);color:#000;border:none;padding:0 22px;font-size:13px;font-weight:600;letter-spacing:.03em;border-radius:3px;cursor:pointer;}
+  #searchBtn:hover{background:#33dcff;}
+  #searchBtn:disabled{background:var(--line);color:var(--text-lo);cursor:not-allowed;}
+
+  .sources-panel{background:var(--panel);border:1px solid var(--line);border-radius:4px;padding:16px 18px;margin-bottom:22px;}
+  .sources-group{margin-bottom:12px;}
+  .sources-group:last-child{margin-bottom:0;}
+  .group-label{font-family:var(--mono);font-size:10px;letter-spacing:.08em;text-transform:uppercase;color:var(--text-lo);margin-bottom:8px;}
+  .source-chips{display:flex;flex-wrap:wrap;gap:8px;}
+  .chip{display:flex;align-items:center;gap:6px;background:var(--panel-2);border:1px solid var(--line);padding:6px 10px;border-radius:20px;font-size:12px;cursor:pointer;user-select:none;}
+  .chip.active{border-color:var(--cyan);color:var(--text-hi);}
+  .chip.unavailable{opacity:.35;cursor:not-allowed;}
+  .chip input{accent-color:var(--cyan);}
+
+  .results-meta{display:flex;justify-content:space-between;align-items:center;margin-bottom:12px;}
+  .results-count{font-family:var(--mono);font-size:12px;color:var(--text-lo);}
+  #saveBtn{background:transparent;border:1px solid var(--line);color:var(--text-lo);padding:8px 16px;font-size:11.5px;font-family:var(--mono);border-radius:3px;cursor:pointer;}
+  #saveBtn:hover{border-color:var(--green);color:var(--green);}
+  #saveBtn:disabled{opacity:.3;cursor:not-allowed;}
+
+  .errors-box{margin-bottom:14px;font-family:var(--mono);font-size:11px;color:var(--amber);}
+
+  .result{border:1px solid var(--line);border-left:2px solid var(--cyan);background:var(--panel);border-radius:3px;padding:14px 16px;margin-bottom:10px;}
+  .result.regulatory{border-left-color:var(--gold);}
+  .result.financial{border-left-color:var(--green);}
+  .result-top{display:flex;justify-content:space-between;gap:10px;margin-bottom:6px;}
+  .result-title{font-size:14px;color:var(--text-hi);font-weight:500;}
+  .result-title a{color:inherit;text-decoration:none;}
+  .result-title a:hover{color:var(--cyan);}
+  .result-source{font-family:var(--mono);font-size:10px;letter-spacing:.04em;text-transform:uppercase;color:var(--text-lo);white-space:nowrap;flex-shrink:0;}
+  .result-meta{font-family:var(--mono);font-size:11px;color:var(--text-lo);margin-bottom:6px;}
+  .result-snippet{font-size:12.5px;color:var(--text);line-height:1.5;}
+  .oa-link{display:inline-block;margin-top:8px;font-family:var(--mono);font-size:10.5px;color:var(--green);text-decoration:none;}
+
+  .empty-state{padding:60px 20px;text-align:center;color:var(--text-lo);font-size:13px;}
+  .loading{padding:40px;text-align:center;font-family:var(--mono);font-size:12px;color:var(--cyan);}
+  .save-toast{font-family:var(--mono);font-size:11px;color:var(--green);margin-top:8px;}
+</style>
+</head>
+<body>
+<div class="wrap">
+  <header>
+    <div class="eyebrow">Infrastructure &amp; Power — Research Layer</div>
+    <h1>Research Hunter</h1>
+    <div class="sub">Federated search across academic literature, regulatory filings, and economic data — one query, every source at once.</div>
+    {% if not contact_set %}
+    <div class="contact-warning">⚠ CONTACT_EMAIL is not set in .env — CrossRef, OpenAlex, SEC EDGAR, and Unpaywall enrichment all work better (or at all) with one set. See README.</div>
+    {% endif %}
+  </header>
+
+  <div class="search-row">
+    <input id="query" type="text" placeholder="e.g. institutional investor single-family housing acquisition" autofocus>
+    <input id="limit" type="number" min="1" max="25" value="10" title="Results per source">
+    <button id="searchBtn">Search</button>
+  </div>
+
+  <div class="sources-panel">
+    <div class="sources-group">
+      <div class="group-label">Academic &amp; Research</div>
+      <div class="source-chips" id="chips-academic"></div>
+    </div>
+    <div class="sources-group">
+      <div class="group-label">Regulatory &amp; Policy</div>
+      <div class="source-chips" id="chips-regulatory"></div>
+    </div>
+    <div class="sources-group">
+      <div class="group-label">Financial &amp; Economic Data</div>
+      <div class="source-chips" id="chips-financial"></div>
+    </div>
+  </div>
+
+  <div class="results-meta">
+    <div class="results-count" id="resultsCount"></div>
+    <button id="saveBtn" disabled>Save to 01_Raw_Research →</button>
+  </div>
+  <div id="saveToast" class="save-toast" style="display:none;"></div>
+
+  <div id="errorsBox" class="errors-box"></div>
+  <div id="results">
+    <div class="empty-state">Run a query to pull from every connected source at once.</div>
+  </div>
+</div>
+
+<script>
+const SOURCES = {{ sources | tojson }};
+let lastQuery = "";
+let lastResults = [];
+
+function buildChips(){
+  const groups = { academic: "chips-academic", regulatory: "chips-regulatory", financial: "chips-financial" };
+  Object.entries(SOURCES).forEach(([key, meta])=>{
+    const container = document.getElementById(groups[meta.type]);
+    if(!container) return;
+    const chip = document.createElement("label");
+    chip.className = "chip" + (meta.available ? " active" : " unavailable");
+    chip.title = meta.available ? "" : `Requires an API key (see README) — currently skipped`;
+    chip.innerHTML = `<input type="checkbox" value="${key}" ${meta.available ? "checked" : "disabled"}> ${meta.label}`;
+    container.appendChild(chip);
+    chip.querySelector("input").addEventListener("change", (e)=>{
+      chip.classList.toggle("active", e.target.checked);
+    });
+  });
+}
+buildChips();
+
+function selectedSources(){
+  return Array.from(document.querySelectorAll(".chip input:checked")).map(i=>i.value);
+}
+
+async function runSearch(){
+  const query = document.getElementById("query").value.trim();
+  if(!query) return;
+  const limit = parseInt(document.getElementById("limit").value || "10", 10);
+  const sources = selectedSources();
+  const btn = document.getElementById("searchBtn");
+  const resultsEl = document.getElementById("results");
+  const errorsEl = document.getElementById("errorsBox");
+
+  btn.disabled = true; btn.textContent = "Searching…";
+  resultsEl.innerHTML = `<div class="loading">Querying ${sources.length} sources…</div>`;
+  errorsEl.innerHTML = "";
+  document.getElementById("saveBtn").disabled = true;
+
+  try{
+    const resp = await fetch("/api/search", {
+      method:"POST",
+      headers:{"Content-Type":"application/json"},
+      body: JSON.stringify({query, limit, sources})
+    });
+    const data = await resp.json();
+    if(data.error){
+      resultsEl.innerHTML = `<div class="empty-state">${data.error}</div>`;
+      return;
+    }
+    lastQuery = query;
+    lastResults = data.combined;
+    renderResults(data);
+  }catch(e){
+    resultsEl.innerHTML = `<div class="empty-state">Search failed — is the Flask server running? (${e})</div>`;
+  }finally{
+    btn.disabled = false; btn.textContent = "Search";
+  }
+}
+
+function renderResults(data){
+  const resultsEl = document.getElementById("results");
+  const countEl = document.getElementById("resultsCount");
+  const errorsEl = document.getElementById("errorsBox");
+
+  countEl.textContent = `${data.combined.length} results across ${Object.keys(data.counts).length} sources`;
+  document.getElementById("saveBtn").disabled = data.combined.length === 0;
+
+  if(Object.keys(data.errors).length){
+    errorsEl.innerHTML = Object.entries(data.errors).map(([s,msg])=>`⚠ ${s}: ${msg}`).join("<br>");
+  }
+
+  if(data.combined.length === 0){
+    resultsEl.innerHTML = `<div class="empty-state">No results. Try broadening the query or selecting more sources.</div>`;
+    return;
+  }
+
+  resultsEl.innerHTML = data.combined.map(r=>`
+    <div class="result ${r.source_type}">
+      <div class="result-top">
+        <div class="result-title"><a href="${r.url}" target="_blank" rel="noopener">${r.title || "(untitled)"}</a></div>
+        <div class="result-source">${r.source}</div>
+      </div>
+      <div class="result-meta">${[r.authors, r.date].filter(Boolean).join(" · ")}</div>
+      <div class="result-snippet">${r.snippet || ""}</div>
+      ${r.open_access_url ? `<a class="oa-link" href="${r.open_access_url}" target="_blank" rel="noopener">↓ free full text via Unpaywall</a>` : ""}
+    </div>
+  `).join("");
+}
+
+document.getElementById("searchBtn").addEventListener("click", runSearch);
+document.getElementById("query").addEventListener("keydown", (e)=>{ if(e.key === "Enter") runSearch(); });
+
+document.getElementById("saveBtn").addEventListener("click", async ()=>{
+  const btn = document.getElementById("saveBtn");
+  const toast = document.getElementById("saveToast");
+  btn.disabled = true;
+  try{
+    const resp = await fetch("/api/save", {
+      method:"POST",
+      headers:{"Content-Type":"application/json"},
+      body: JSON.stringify({query:lastQuery, results:lastResults})
+    });
+    const data = await resp.json();
+    if(data.saved){
+      toast.style.display = "block";
+      toast.textContent = `✓ saved to 01_Raw_Research/${data.filename} — Orchestrator will pick it up`;
+      setTimeout(()=>{ toast.style.display = "none"; }, 4000);
+    }
+  }catch(e){
+    console.error(e);
+  }finally{
+    btn.disabled = false;
+  }
+});
+</script>
+</body>
+</html>

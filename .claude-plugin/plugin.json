@@ -1,0 +1,9 @@
+{
+  "name": "research-hunter",
+  "description": "Evidence-first claim verification with fetched snapshots, SHA-256, quoted spans, and PASS/FAIL/UNVERIFIABLE verdicts.",
+  "version": "1.0.0",
+  "author": {
+    "name": "yourfavCHEFP"
+  },
+  "license": "MIT"
+}
