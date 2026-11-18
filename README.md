@@ -1,5 +1,7 @@
 # Research Hunter
 
+**Status: DONE** (2026-11-18) — verification engine, MCP tools and Streamlit UI. Evidence: 46 pytest passed / 1 skipped; MCP PASS/FAIL/UNVERIFIABLE controls; 12/12 script sources verified with hashed snapshots. Flask search, orchestrator and Knowledge Vault are separate subsystems and remain untested.
+
 Federated search across academic, regulatory, and financial-data sources —
 one query, every connector at once, results normalized to a single schema.
 
