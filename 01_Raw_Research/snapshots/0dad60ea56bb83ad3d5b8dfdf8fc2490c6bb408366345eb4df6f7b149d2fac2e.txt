@@ -1,0 +1,1166 @@
+Cookies on GOV.UK
+We use some essential cookies to make this website work.
+We’d like to set additional cookies to understand how you use GOV.UK, remember your settings and improve government services.
+We also use cookies set by other sites to help us deliver content from their services.
+You have accepted additional cookies. You can change your cookie settings at any time.
+You have rejected additional cookies. You can change your cookie settings at any time.
+Accept additional cookies
+Reject additional cookies
+View cookies
+Hide cookie message
+Navigation menu
+Services and information
+Benefits
+Births, death, marriages and care
+Business and self-employed
+Childcare and parenting
+Citizenship and living in the UK
+Crime, justice and the law
+Disabled people
+Driving and transport
+Education and learning
+Employing people
+Environment and countryside
+Housing and local services
+Money and tax
+Passports, travel and living abroad
+Visas and immigration
+Working, jobs and pensions
+Government activity
+Departments
+Departments, agencies and public bodies
+News
+News stories, speeches, letters and notices
+Guidance and regulation
+Detailed guidance, regulations and rules
+Research and statistics
+Reports, analysis and official statistics
+Policy papers and consultations
+Consultations and strategy
+Transparency
+Data, Freedom of Information releases and corporate reports
+Search GOV.UK
+×
+Search GOV.UK
+Search GOV.UK
+Environment
+Energy infrastructure
+Low carbon technologies
+Accelerating deployment of offshore wind farms: UK Offshore Wind Champion recommendations
+Department for
+Energy Security
+& Net Zero
+Independent report
+Seizing our opportunities: independent report of the Offshore Wind Champion
+Published 5 April 2023
+Contents
+Foreword and Key Messages
+Stewardship of our national energy system
+Executive summary
+Background
+Opportunity 1: Site selection and seabed leasing
+Opportunity 2: Consenting
+Opportunity 3: Grid connections
+Opportunity 4: The CfD
+Opportunity 5: Ports and supply chain
+Opportunity 6: Innovation and skills
+Glossary
+Annex A: Offshore Wind Acceleration Taskforce (OWAT)
+Print this page
+This publication is licensed under the terms of the Open Government Licence v3.0 except where otherwise stated. To view this licence, visit nationalarchives.gov.uk/doc/open-government-licence/version/3 or write to the Information Policy Team, The National Archives, Kew, London TW9 4DU, or email: psi@nationalarchives.gov.uk.
+Where we have identified any third party copyright information you will need to obtain permission from the copyright holders concerned.
+This publication is available at https://www.gov.uk/government/publications/accelerating-deployment-of-offshore-wind-farms-uk-offshore-wind-champion-recommendations/seizing-our-opportunities-independent-report-of-the-offshore-wind-champion
+Foreword and Key Messages
+Dear Prime Minister, Dear Secretary of State, Dear Minister,
+It has been an extraordinary honour and privilege to serve as the first UK Offshore Wind Champion over the past 10 months. Whilst I came to the role with 27 years of experience as an energy project development lawyer, that experience was largely focussed in the Oil & Gas, Refining, Petrochemicals and Thermal Power sectors. So I came to the role with skills, experience and enthusiasm, albeit relatively limited specific Offshore Wind knowledge.
+The odyssey I have been on since then has been nothing short of incredible, engaging with hundreds of stakeholders across the UK. Offshore Wind is without doubt a UK success story, particularly in terms of the scale of deployment, innovation and cost reduction achieved to date. It has matured from a niche activity to a fundamental component of our national energy system in less than two decades. A lot of this is down to nurturing government policies; but it’s also down to the government, regulatory and business stakeholders, and the people within them, that have made this happen. As I said after my first month in the role, what has impressed me more than anything else is the sense of optimism, of innovation, of global leadership, of doing critically important work, and of fun, that oozes out of everyone you meet in this industry: if only we could bottle that and sell it to other UK industries!
+It is for that reason that this report does not speak to Barriers, but to Opportunities. Opportunities to do better, to move faster.
+In many cases, these Opportunities arise as a result of our world-leading position in Offshore Wind. We are being presented with them first amongst Western nations and have the chance to demonstrate global leadership and create exportable skills and know-how as we seize them.
+If I had to sum up in one sentence where we stand today, I couldn’t use words better than those of a European developer with investments across the UK: “The UK is long on seabed leases, but short on timely grid connections.” If you take just one message from this report, it should be the urgent need to upgrade our national grid for a world of high renewables penetration, and widespread electrification of homes and businesses. Grid connections are increasingly becoming the rate-limiting factor for our Offshore Wind deployment going forward. It came as no surprise when Chris Skidmore MP’s “Independent Review of Net Zero” identified grid and infrastructure as the first of ten priority missions to harness public and private action out to 2035. The estimated £54 billion rollout of the Holistic Network Design needs to proceed at pace, on almost a wartime footing given the growing impact of grid access constraints across the economy and the potential negative impact on investor confidence. Similarly, the queue arrangements for grid connections need further reform to reflect the new world we find ourselves in. The advice of my colleague, Networks Commissioner Nick Winser, will be a key building block for this work.
+In the shorter term, we do still have a significant pipeline of Offshore Wind projects which have or can secure grid access. To accelerate those we need to finalise the planning and environmental reforms contained in the Energy Security Bill, Levelling Up and Regeneration Bill, and NSIP Action Plan, and then ensure that those reforms are promptly and effectively operationalised. That will require people and skills, adequate resources and funding, but also digitalisation and better use of data. And we should be willing to revisit this issue if the measures being taken now don’t fully deliver the planned improvements. The same applies to parallel reforms being undertaken by the Devolved Administrations.
+To put these two key points in perspective, the costs of delaying Offshore Wind deployment need to be considered. Obviously in such a complex system there is uncertainty as to what would replace delayed generation. However, if we use a simplifying assumption where the generation from 1 GW of offshore wind is replaced by equivalent generation (adjusted for capacity factor) from a Combined Cycle Gas Turbine (CCGT) in 2025, an illustrative analysis prepared by DESNZ suggests that a delay of one year would generate approximately 1.5 Mt of CO2 equivalent (for comparison, this is around 3% of estimated 2022 total UK power sector emissions).[footnote 1] In money terms, operational costs and thus simple levelized cost of energy for Offshore Wind is estimated to be considerably lower than (or approximately 40% of)[footnote 2] the substitute CCGT generation (the gap narrows when system costs are taken into account, given intermittency and locational differences, although there is widespread debate as to our allocation methodology for those costs). In AR4 (2022) fixed bottom Offshore Wind had the lowest clearing strike price of all renewable technologies winning CfDs.
+Neither of these metrics of course ascribes a value to Energy Security, a key concern in today’s world. As the British Energy Security Strategy stated: the long-term solution is to address our underlying vulnerability to international oil and gas prices and build a British energy system that is much more self-sufficient.
+The starting point for my role was a note produced by Sir Ian Wood for your predecessors as part of the Build Back Better Business Council (B4C) initiative. Sir Ian’s involvement gave me cause to re-read the February 2014 ‘Wood Review’ which led directly to the establishment of the Oil & Gas Authority, now the North Sea Transition Authority (NSTA).
+Whilst acknowledging that there are a range of views on this topic amongst stakeholders, I do not recommend the establishment of such a new regulator for Offshore Wind. Carving out a meaningful set of powers for such a body would rapidly conflict with the devolution settlements around seabed leasing and planning, and would create a range of new and less well understood regulatory interfaces in our electricity system. I also firmly believe in the need for clear checks and balances around Offshore Wind Farm developments given their spatial significance and impact on other marine users. In addition, such an exercise would be a big distraction at a time when continuous improvement-type changes to the regulatory ecosystem in which Offshore Wind sits are demonstrably bearing fruit.
+That being said, I firmly believe that the concept of ‘stewardship’, which permeates the Wood Review, is key, especially as it applies to our national energy system as a whole during this period of profound transformational change. The need for our institutional architecture to deliver more robust national level, holistic, strategic stewardship of our rapidly evolving energy system is discussed later in this report. As part of this, Ofgem’s mandate needs updating, to give proper weight to the legally binding Net Zero by 2050 commitment, as well as interim policy waypoints such as the objective to have a decarbonised power system by 2035.
+One particular area on which HMG and the Devolved Administrations should focus their care and attention is in seizing our first-mover advantage in the development of the new floating offshore wind (FLOW) industry. Delivering this will require a focussed strategy encompassing a number of elements:
+supporting the continuing innovation, R&D and industrialisation efforts as the technology transitions from bespoke demonstration projects to serial production and commercial scale deployment
+taking a sustainable approach to CfD auction parameters and cost reduction[footnote 3]
+catalysing investment in the large-scale world-class port infrastructure which will be so vital to delivering projects and securing the largest possible share of supply chain jobs, growth and know-how from this new industry
+I would commend to you the recent report from the Welsh Affairs Committee on Floating Offshore Wind in Wales[footnote 4], which sets this out very clearly in the context of Celtic Sea FLOW, noting that similar considerations apply in Scotland in the context of INTOG and ScotWind. With bold, determined leadership we have a fantastic opportunity to lead the world in this technology, in the same way that Aberdeen has led the world in subsea Oil & Gas. I remain convinced that there is a wider win-win available if HMG can join the dots between this steel-hungry, green energy source, and efforts to decarbonise the UK steel industry.
+In the current environment there are several factors which have led the Offshore Wind Acceleration Taskforce (OWAT) to focus heavily on the sustainability and security of our Offshore Wind manufacturing and supply chains and how the UK’s Offshore Wind market design supports or inhibits supply chain development. These include hugely increased deployment targets announced by our neighbours in Europe as well as countries around the world leading to significant supply chain constraints; the US Inflation Reduction Act and the European Union’s Green Deal Industrial Plan, both aimed at attracting supply chain investment; and the advent of commercial scale FLOW. At this critical moment we have an opportunity to learn from the successes and the missed opportunities in this area in the fixed bottom deployment to date and chart a new course.
+Through OWAT we have proposed several measures for stakeholders to consider which, combined with appropriate fiscal incentives (including those available in our Freeports and Green Freeports, several of which have Offshore Wind as a core component of their business plans), can help deliver positive change for the UK in this area:
+A greater emphasis from The Crown Estate, and continued progress from Crown Estate Scotland, on supply chain development as part of their seabed leasing processes (taking into account lessons learned from the process adopted by Crown Estate Scotland in this area in the ScotWind leasing round)
+Increased funding of the Offshore Wind Growth Partnership (OWGP), or a similar collaborative funding vehicle, from industry and other sources, enabling a much broader range of supply chain development programmes to be implemented (in a manner complementary to Scotland’s Strategic Investment Model (SIM) initiative). Ideally this would be accompanied by an increasing level of investment into strategic enabling and de-risking activities in the sector by The Crown Estate and Crown Estate Scotland/Scottish Government, alongside HMG
+The implementation of Non-Price Factors in the CfD allocation process, aimed at rewarding positive behavioural changes in this and other areas, taking into account lessons learned from similar initiatives in various European Union member states.
+All of the above measures would revolve around and reinforce an updated ‘Industrial Growth Plan’ for Offshore Wind, aligned between Government, industry and other key stakeholders and based on a sober and thorough strategic competency ‘make-or-buy’ analysis which takes into account the UK’s comparative advantages and opportunities for disruption.
+Offshore Wind, an increasingly global industry, has been substantially incubated with support from UK taxpayers and consumers: if we are to implement a Just Transition, it is imperative to ensure it delivers as much opportunity for UK businesses and communities as possible, even more so given the correlation between UK coastal areas targeted for ‘levelling up’ and the next decade of anticipated Offshore Wind development in the UK.
+In all of this, we need to maintain our focus on the competitiveness of the UK’s offer to Offshore Wind investors in an age of increasing global opportunities, whilst also recognising that the costs of our electricity system are ultimately borne by consumers.
+As an adjunct to OWAT’s core work, we have promoted the reinvigoration of the Offshore Wind Industry Council (OWIC) as the long-term, primary interface between HMG and the Offshore Wind industry. It will be for HMG, OWIC and others to now drive the industry forward and maintain the momentum created by OWAT. It should be noted that, based on the current seabed leasing pipeline, significant UK Offshore Wind deployment activity will take place in Scotland and Wales over the coming decade, making it essential that HMG and the Devolved Administrations maximise their alignment, including in relation to ongoing reforms of consenting processes.
+Finally, whilst this is very much a forward-looking report, it would be remiss of me not to acknowledge the considerable pressures in the Offshore Wind ecosystem currently affecting AR4 and AR5 projects. Those shovel-ready projects combined would represent almost a doubling of our current Offshore Wind deployment and I would urge all stakeholders to do what they can to facilitate their success.
+I’d like to give some special thanks to my Ministerial OWAT Co-chairs over the period, Greg Hands MP and Graham Stuart MP; the other members of OWAT and its Supply Chain and Infrastructure Working Group and Environmental Data Sub-group; the Renewable Electricity Development, Networks and Private Office teams at the Department for Energy Security and Net Zero (DESNZ) who have added OWAT work to already busy desks; the No. 10 PM and Delivery Units for helping join dots and reinforce key messages; OWIC; RenewableUK, and in particular their Energy Pulse team for all the projects pipeline modelling; Scottish Renewables; my fellow DESNZ energy industry champions Jane Toogood (Hydrogen Champion), Simon Bowen (Nuclear Champion) and Nick Winser (Networks Commissioner); and everyone else across the Offshore Wind sector who has supported the work of OWAT and me in my role as Offshore Wind Champion.
+Lastly, whilst this report reflects on the past 10 months of collaborative work through OWAT, and no doubt mirrors (and in some cases challenges) the views of many other stakeholders in the Offshore Wind sector, it is an independent report and responsibility for any errors or omissions is mine alone.
+Yours,
+Tim Pick
+Offshore Wind Champion, May 2022 – March 2023
+Stewardship of our national energy system
+Throughout my tenure as Offshore Wind Champion, I have considered extensively the question of stewardship of the UK energy system as an integrated whole. ‘Stewardship’ embodies the concepts of responsible management, supervision and, critically, care, and I have observed good examples of this in various parts of Government, public bodies and industry participants, but typically on a narrow, siloed basis.
+Given the sheer scale of transformational change taking place across our energy system, whether in terms of the mass deployment of renewables, the upgrading of our national grid, the renewal of the nuclear fleet, electrification of homes and businesses, the roll out of CCUS or the future roles of Oil & Gas and Hydrogen in the energy mix, I strongly believe that there is a need for more robust, national level, holistic, strategic stewardship of the integrated system.
+Looked at from the selfish perspective of the Offshore Wind sector, one can take the view that decisions around what, when and where for Offshore Wind can be defined within seabed leasing by TCE and CES, working, as they increasingly do, in alignment with Government marine spatial planning and prioritisation programmes and the ESO. It is certainly easy enough to make the argument that the more Offshore Wind Farms the better.
+But those seabed leasing, marine planning and transmission decisions also constitute major policy decisions as to the timing, location and technology of the nation’s future electricity generation capacity. The framework within which those decisions are currently being made needs to be carefully considered, especially when viewed in the broader energy system and spatial planning context. This includes the knock-on costs to consumers of, for example, transmission and storage investments required to accommodate the electricity generated by Offshore Wind Farms into our national grid. Who, in the UK institutional framework, is responsible for systems-thinking and asking questions like:
+Is the timing and location of that new Offshore Wind generation capacity optimal, from a national cost-benefit perspective, when the timing and location of expected new onshore wind and solar capacity, as well as the timing and location of the new nuclear fleet and the location and type of forecast electricity demand, is also taken into account?
+From a national cost-benefit perspective should transmission lines be built to connect all those Offshore Wind Farms to the national grid, or should some be designated from the outset to rely on alternative routes to market, e.g., electrolysers producing Green Hydrogen?
+Are those Offshore Wind Farm sites optimal from a wider energy system reliability and resilience perspective?[footnote 5]
+More generally, who is performing the stewardship function for our integrated national energy system as a whole as it is transformed? What is the plan for this national infrastructure project, and how are the intrinsic cost, schedule and technology risks being mitigated? We need a strategic, orderly roadmap for the deployment of the infrastructure required to meet to our legally binding Net Zero objective, as well as the various interim milestones set out by HMG, such as deployment ambitions for 2030 in the British Energy Security Strategy and the objective to decarbonise the power system by 2035, supported by appropriate governance.
+Guidehouse have estimated that integrated infrastructure planning across electricity and hydrogen transmission alone could provide energy system savings up to £38 billion by 2050.[footnote 6] The need for DESNZ to prepare and manage a delivery plan is clearly highlighted in the National Audit Office’s 1 March 2023 report on Decarbonising the Power Sector[footnote 7]. We should be clear that not having a plan is also a significant decision in itself given the scale, complexity and cost of the ongoing system-wide transformation, the social and environmental impacts of the linear and other infrastructure delivering it, and the need to explain that to affected communities.
+Offshore Wind Champion recommendations:
+Recommendations to government:
+HMG should ensure that the new Department for Energy Security and Net Zero assumes robust national level stewardship of our rapidly evolving integrated (land-based and marine) energy system, based on a high-level vision for the entire system, providing long term cross-government policy certainty and taking into account both the legally binding Net Zero target for 2050, as well as other policy waypoints such as decarbonisation of the power system by 2035.
+As part of this, HMG and the Devolved Administrations should set out clear ambitions for Offshore Wind deployment beyond 2030, including for 2035, 2040 and 2050, to provide a clear long term policy framework for seabed leasing and consenting decisions as well as investor confidence for developers, ports and the supply chain.
+HMG should expand the role of the Future Systems Operator (FSO) to include responsibility for developing national level strategic delivery frameworks for the energy system as a whole in collaboration with other relevant stakeholders. The aim should be to identify and realise cost efficiencies whilst guiding and de-risking the orderly and coordinated development of electricity, gas, hydrogen, CO2 and heat networks and other infrastructure required to achieve the UK’s Net Zero goal and the interim 2035 milestones described above. For the marine elements, such plans need to be informed by robust marine spatial planning.
+HMG and the Devolved Administrations should recognise the pan-UK nature of the energy system and ensure that their respective contributions to stewardship are aligned and complementary.
+Executive summary
+Summary of recommendations
+The following table links to the key recommendations made in this report, by reference to the Opportunities described.
+Offshore Wind Champion Recommendations
+Stewardship of our National Energy System Recommendations
+Opportunity 1: Site Selection and Seabed Leasing Recommendations
+Opportunity 2: Consenting Recommendations
+Opportunity 3: Grid Connections Recommendations
+Opportunity 4: CfD Recommendations
+Opportunity 5: Ports and Supply Chain Recommendations
+Opportunity 6: Innovation and Skills Recommendations
+Status update
+On the core question pursued by OWAT, and by myself as Offshore Wind Champion, the acceleration of Offshore Wind development timelines, it’s reasonable to suggest that the current 10 years plus period from the award of a seabed option or agreement for lease to FID (see Figure 5) can be brought back down to approximately 5-6 years. However, this assumes the passing and properly resourced implementation of the consenting changes in the Energy Security Bill, Levelling Up and Regeneration Bill and the NSIP Action Plan (and corresponding action by the Devolved Administrations), and the implementation of an increasingly sophisticated seabed leasing process as currently being trialled by The Crown Estate in the Celtic Sea FLOW leasing round. Critically though, this also assumes the availability of timely Grid Connections, a matter which requires significant further work to address. See Figure 1 for an indicative summary.
+Figure 1. Indicative development timeline reductions
+Figure 1 is a timeline showing that the grid connection process overlaps from development through to financial close.
+As of March 2023, the latest Offshore Wind pipeline modelling from RenewableUK’s Energy Pulse model (which makes dynamic assumptions of various stages in the development timeline for each Offshore Wind Farm in the pipeline based on historically similar projects, but then overlays that with real world data, in particular actual published grid connection dates, as well as post-consent timeline adjustments for FLOW projects) suggests that, absent the implementation of further measures to accelerate Grid Connections, deployment of around 40 GW by the end of 2030 may be achievable[footnote 8], but the 50 GW ambition from the British Energy Security Strategy will be missed. See Figure 2 and Figure 3.
+The modelling does suggest that the Climate Change Committee forecast demand for Offshore Wind generation of 65 GW by 2035, and the 74 GW of demand for 2035 contemplated in National Grid’s Future Energy Scenarios can be met, but obviously the forecast becomes more uncertain further out in time, especially in terms of the timeliness of Grid Connections and in the context of the need to industrialise FLOW deployment.
+Figure 2. Cumulative UK Installed Offshore Wind Capacity (MW) to 2035
+Figure 2 is a stacked bar chart showing the UK Installed Offshore Wind Capacity (in MW) up to 2035, including wind farms that are operational, under construction, consented, in planning, and in development. The graph shows a significant increase in the cumulative offshore wind capacity from around 2024 onward. The cumulative amount is just under 20,000 Megawatts in 2024 and is projected to increase to just under 100,000 MW in 2035.
+Source: RenewableUK, Energy Pulse, March 2023[footnote 9]
+Figure 3. Cumulative UK Installed Fixed and Floating Offshore Wind Capacity (MW) to 2035
+Figure 3 is a stacked bar chart showing the increase in cumulative installed fixed and floating offshore wind capacity in the UK from 2002 to 2035.
+Source: RenewableUK, Energy Pulse, March 2023
+Background
+Fixed bottom Offshore Wind is a major UK success story. With 13.8 GW of operational fixed bottom Offshore Wind capacity, including the world’s first, second, third and fourth largest Offshore Wind Farms, the UK has the largest fleet outside China. The UK has a further 6.4 GW currently under construction, and 12.6 GW that have received planning consent (in the form of a DCO or Section 36 Consent) of which 7.6 GW has been awarded a CfD. Existing agreements or options for seabed leases issued by TCE and CES provide a further 30 GW of future fixed bottom Offshore Wind pipeline.
+In addition, the UK has the largest deployment of FLOW globally, at 78 MW, including the world’s largest operational FLOW project at Kincardine, a further approximately 150 MW through planning, and a pipeline beyond that of 19 GW. Up to a further 10 GW could be leased this year through CES’s INTOG leasing round and TCE’s Celtic Sea FLOW leasing round.
+But leadership is always challenging, and deploying Offshore Wind Farms in the UK has, despite our vast experience and precedent bank, become more rather than less difficult over time. Figure 4 shows the typical development cycle for a UK Offshore Wind Farm, and Figure 5 shows the evolution of development times, from the grant of an agreement or option for a seabed lease to FID, for UK Offshore Wind Farms that have reached the latter milestone. As the best fit line in Figure 5 shows, typical timeframes have evolved upwards from around 5 years in the early 2000s, to in excess of 10 years today.
+Figure 4. Development cycle for a UK Offshore Wind Farm
+Blue boxes indicate activities by developers, independent organisations, and regulators. Yellow boxes indicate activities led by Government. Repowering activity potentially takes place between Operation and Decommissioning.
+Flow chart showing the development cycle for a UK offshore wind farm.
+Scoping* - Initial studies on potential sites for the wind farm.
+Site leasing* - Secure seabed rights through Crown Estate/ Crown Estate Scotland leasing processes.
+Development* - Initial work on detailed design of farm, including initial discussions with key contractors. Grid agreement.
+Pre-Consenting Studies* - Gathering of environmental data on the proposed site, effects of deployment.
+Consenting**
+Contract for Difference (CfD)** - Acquire CfD through (now annual) competitive allocation process.
+Key contract procurement* - Formal procurement of turbines, components, installation/operating base and services.
+FID and Financial close*
+Construction* (2-3 years) - Could be phased depending on size
+Operation* (25-30 years)
+Decommissioning*
+*Activities by developers, independent organisations, and regulators
+**Activities led by government
+Source: DESNZ.
+Figure 5. Months from Agreement/Option for Lease to FID
+Figure 5 shows the evolution of development times, from the grant of an agreement or option for a seabed lease to FID, for UK Offshore Wind Farms that have reached the latter milestone. Typical timeframes have evolved upwards from around 5 years in the early 2000s, to in excess of 10 years today.
+Source: RenewableUK, Energy Pulse, January 2023
+Not all of this lengthening is due to governmental and regulatory processes. There are private sector contributions to that as well, including delays from merger and acquisition activity. Some sites have required technology innovation and cost maturation to become able to be developed. And, of course, the scale and complexity of Offshore Wind Farms has increased enormously through that period.
+But government processes, many not originally designed with large scale Offshore Wind in mind, have played their part, and there have also been significant challenges to those processes through Judicial Review, often enabled by the approach of trying to adapt existing, non-tailored processes to the ever greater and more complex needs of Offshore Wind.
+In 2019 Government and the Offshore Wind industry agreed the “Offshore Wind Sector Deal”, a series of measures focussed on the energy trilemma: decarbonising generation whilst ensuring energy security whilst still bearing down on costs to consumers. The 2019 Sector Deal brought HMG and industry together, and clearly identified the areas where focus was needed in developing the UK’s Offshore Wind sector. Those same areas are covered in this report.
+As part of the 2019 Sector Deal, eight regional clusters were identified: Deep Wind (North Scotland), Forth & Tay Offshore, Energi Coast (North East England), Aura/Team Humber Energy Alliance, East Wind Offshore Cluster (East Anglia), Solent, Celtic Sea Cluster and Offshore Energy Alliance (North West and North Wales). Each cluster has a unique identify and, at least one, industry champion. Members of the clusters include Government, Local Enterprise Partnerships, ORE Catapult, academic institutions, local industry and other parties with an interest in developing and growing the Offshore Wind sector in the region.
+When the 2019 Sector Deal was agreed the ambition was to see Offshore Wind contributing up to 30 GW of generating capacity by 2030. In late 2020 this target was increased to 40 GW, including a new target for FLOW to deliver up to 1 GW of energy by 2030; and in April 2022, as part of the British Energy Security Strategy created in response to Russia’s illegal invasion of Ukraine, ambitions were raised again to up to 50 GW by 2030, including up to 5 GW of FLOW.
+Looking beyond 2030, the Climate Change Committee forecast demand for Offshore Wind generation at 65 GW by 2035, and National Grid’s Future Energy Scenarios contemplate a demand for 74 GW by 2035.
+Government and industry have long recognised that these ambitions can only be realised by reversing the upwards trajectory of development times, and various perceived barriers have been looked at through working groups established by OWIC. In late 2021, then Prime Minister Boris Johnson commissioned Sir Ian Wood, as part of the Build Back Better Business Council (B4C) initiative, to run a short industry engagement exercise, resulting in the production of a short note re-confirming the existence of certain barriers. OWAT was formed in January 2022 to take that work forward, and I was appointed in May 2022 as Offshore Wind Champion to provide a focal point.
+The work undertaken by OWAT, its Supply Chain and Infrastructure Working Group and Environmental Data Subgroup and other stakeholders[footnote 10], the Opportunities described in this report, and the specific recommendations made, are primarily focussed on that singular objective: to shorten development times from the grant of an agreement or option for a seabed lease to FID and thereby accelerate the deployment of the UK’s world-leading pipeline. A number of recommendations stray beyond that remit and reflect my experience and observations as I have got to know the industry and its stakeholders, or matters specifically covered by OWAT.
+It should be noted that OWAT, and this report, have focused on Great Britain. Northern Ireland does not currently have any Offshore Wind, but it is recognised that The Northern Ireland Executive has set out an ambition of reaching 1GW by 2030. The Department of the Economy recently consulted on a Draft Offshore Renewable Energy Action Plan which is a pathway to accelerating that ambition to 1GW by 2030 if feasible.
+Opportunity 1: Site selection and seabed leasing
+As an island nation the UK is fortunate to be endowed with a significant amount of seabed and accompanying wind resource. Table 1 shows a simple comparison of the area of territorial waters for key European countries which are active in developing Offshore Wind.
+However, not all of this area is suitable for developing Offshore Wind (in terms of depth, distance from shore, or wind patterns), and the UK also already expects a lot from its marine spaces, with a large range of users seeking access. Major uses include environmental protection, aggregates extraction, defence, fisheries, navigation (95% of all UK imports and exports are moved by sea), and tourism. Achieving Net Zero will require very significant levels of Offshore Wind, which will need to be deployed alongside other energy sector uses such as Oil & Gas extraction and CO2 sequestration within the UK’s crowded waters.
+Table 1.
+Country
+Marine space [footnote 11] (km2)
+Offshore Wind Target [footnote 12]
+2030
+(GW)
+Offshore Wind Target
+2035
+(GW)
+Offshore Wind Target
+2040
+(GW)
+Offshore Wind Target
+2045
+(GW)
+Offshore Wind Target
+2050
+(GW)
+Belgium
+3,454[footnote 13]
+6
+-
+8
+-
+8
+Denmark
+105,000[footnote 14]
+12.9
+-
+22.65
+-
+35
+France
+371,096[footnote 15]
+4.4
+18
+-
+-
+40
+Germany
+56,400[footnote 16]
+30
+40
+-
+-
+70
+Ireland
+490,000
+7
+-
+15 – 20
+-
+37
+Netherlands
+58,000[footnote 17]
+16 – 21
+30 – 50
+40 – 70
+Poland
+38,347[footnote 18]
+5.9
+-
+11
+-
+-
+United Kingdom
+885,430
+50
+-
+-
+-
+-
+Source: DESNZ
+Marine spatial planning
+Increasing demand for space by multiple sectors is inevitably causing spatial challenges, due to usage conflicts that inevitably lead to delays in consenting processes. Just within the energy sector, material overlaps are already arising between seabed leases for Offshore Wind Farms and licensing rounds for both Oil & Gas exploration and CO2 sequestration.
+While the UK has a robust marine planning system in place, it is designed to balance competing needs of sea users, rather than establish an agreed hierarchy of priorities. With marine spatial demand expected to significantly increase, including from Offshore Wind, attempting to balance needs is no longer sufficient when delivering the UK’s policy ambitions on Net Zero, and a more holistic and prescriptive approach to marine management is needed. Action is accordingly needed to optimise the use of our marine environment and create a longer-term vision for its use.
+In England, Defra is leading a cross-government programme to build our understanding of the long-term competing demands, optimise use of our seas, maximise colocation and coexistence between all sea users and prioritise use of our marine space. The work is being taken forward under three pillars:
+Optimise use of the marine space: including adopting a more strategic approach to identifying appropriate sites for specific marine uses or infrastructure e.g. Offshore Wind.
+Maximise coexistence between different sea users: such as how best to design cabling and/or Offshore Wind to minimise impacts on other sectors.
+Prioritise how the seas are used where coexistence is not possible: including the potential consequences, impact and mitigations required.
+The programme will support future use of our seas, ensuring that future planning and other government policy and levers can respond to the growing spatial challenges being faced.
+The Devolved Administrations have similar but separate programmes ongoing, again with the aim of identifying and mitigating conflicts:
+In Scotland, Marine Scotland’s Iterative Plan Review process has been initiated, and development of a new National Marine Plan for Scotland (NMP2) is being planned.
+The Welsh Government have introduced the Welsh National Marine Plan and is developing supplementary material to support plan implementation. The plan supports the optimum use of marine space and seeks to promote coexistence between marine developments and activities. The plan includes policy setting out support for the development of Offshore Wind, including FLOW, at scale over the lifetime of the plan.
+The Welsh Government is taking a spatial approach to implementation of marine planning. This will help to safeguard the interests of key marine industries and the livelihoods which depend upon them, whilst also helping plan for future sustainable development, understanding which activities are likely to be appropriate in a particular place, while also understanding what needs to be done to protect and enhance the marine environment.
+The role of The Crown Estate and Crown Estate Scotland
+Whilst occupying different constitutional positions, and with separate governance and statutory duties, TCE (in England, Wales and Northern Ireland) and CES both have authority to grant seabed leases for Offshore Wind Farms; in the case of TCE, pursuant to the Energy Act 2004; and in the case of CES, pursuant to the Scotland Act 1998 and The Crown Estate Transfer Scheme 2017.
+TCE and CES both also go beyond a simple seabed landlord or asset manager function, acting as delivery partner with Government and the private sector to take an active, long-term approach to maximising usage of the seabed, including Offshore Wind.
+TCE returns all of its net profit to HMG, although within this current remit has been able to be a long-term investor and provider of data and evidence to inform policy decisions, strategic spatial planning, de-risking investment, driving Net Zero and nature recovery. TCE has utilised its resources and capabilities in shaping the foundations of the Offshore Wind sector, and previously invested around £95 million alongside developers in its Round 3 Leasing Round, and established the £50 million OWEC programme alongside its Round 4 Leasing Round.
+In Scotland, some of the spatial and environmental research elements of this activity are discharged by Marine Scotland. CES acts as a key enabler for Offshore Wind supply chain development via the SOWEC and SIM programmes, with TCE also moving into that role in the context of Celtic Sea FLOW. CES’s surplus revenue is returned to the Scottish Government.
+Leasing rounds
+Historically, UK seabed leasing rounds have been somewhat episodic with widely varying capacities being awarded, and, in some cases, some attrition in the pipeline. See Figure 6.
+Figure 6. Offshore Wind Leasing Round Capacity Statistics
+Figure 6 is a bar chart showing offshore wind leasing for each round. Leasing rounds were held in 2001, 2003, 2010, 2011, 2019, 2021, 2022, 2023 and 2024.
+Source: DESNZ & TCE
+Leasing
+Site selection for, and the structure of, seabed leasing rounds and related tender processes can have a material impact on the speed at which an Offshore Wind Farm can be developed after the agreement for lease or option has been awarded, and both TCE and CES are increasing the level of sophistication in their processes accordingly. In particular:
+Marine Spatial Planning:
+Effective marine spatial planning, as discussed above, should act to limit the level of attrition in the leasing pipeline, as well as limit the scope for conflict with other marine users during the consenting process (and therefore the potential for delays arising from adversarial planning processes or Judicial Reviews).
+Alignment with Grid:
+In 2022 both TCE and CES entered into separate “Statements of Intent” with the ESO to facilitate greater cooperation between leasing activity and transmission system design activities. The Celtic Sea FLOW leasing round will be the first to benefit from more aligned activity between TCE and National Grid.
+Pre-emptive Habitats Surveys:
+In the Celtic Sea FLOW leasing round TCE is trialling an approach of investing in some of the longer duration surveys required by the Habitats Regulations (e.g. two-year bird surveys) ahead of leasing, thereby reducing the duration of those activities in the period from leasing to FID.
+A NOTE ON OUR DUAL AUCTION PROCESS AND THE MONEY-GO-ROUND
+Many stakeholders find our dual auction system, which essentially requires developers to bid a high price to TCE or CES for leases at the beginning of project development, and then at the end to bid a low CfD strike price, a curiosity, given that both auctions are ultimately run by public bodies acting in the national interest (albeit with different mandates and responsibilities).
+Some stakeholders argue that seabed leasing fees represent a regressive tax, or comment on the efficiency of a money-go-round system where developers pay leasing fees to public bodies which are essentially then back-charged to electricity consumers (together with associated financing costs) in the CfD strike price. To put this in context, and recognising that TCE and CES take different approaches to lease pricing, seabed leasing fee income to TCE is projected to be £1 billion in 2023, and CES received one-off option fee receipts of £755 million in 2022 from ScotWind. DESNZ has projected that leasing fees could account for more than 20% of the CfD strike price for some Offshore Wind Farms in England.
+More broadly, these two auction processes book-end the UK’s risk/reward offer to Offshore Wind investors, and accordingly have a material influence on behaviours during project development.
+Several EU states run single auction systems, where seabed rights and route-to-market / subsidies are packaged, whereas the US is adopting a system closer to our model.
+There are clearly pros and cons to each model, but I have not yet identified anything in ours that is so broken as to require a fundamental change to a unitary model; I also consider it important that we retain a model that allows flexibility for developers to take a seabed lease, but to substitute the CfD route-to-market with alternatives, such as Corporate PPAs, Green Hydrogen or e-fuels.
+I do however believe there is room in both auction processes for a recognition of value that goes beyond just price, and to motivate some different behaviours. Some of the recommendations in this report touch on that.
+Strategic Compensation:
+The OWEIP measures described on page 35 include a framework for delivery of strategic environmental compensation at the project level, however it can also be applied at the plan level. The Secretary of State for BEIS (now DESNZ) allowed TCE’s Leasing Round 4 to proceed based on a Habitats Regulations Assessment plan level derogation case, subject to TCE’s commitment to developing and delivering two strategic environmental compensation plans with the relevant developers. These plans are first-of-a-kind and will be developed through a TCE-chaired Steering Group consisting of DESNZ, Defra, relevant SNCBs and developers in order to provide a route through to securing the required compensation in advance of project-level DCO application submissions. It is anticipated that this may set the model for addressing environmental assessments and subsequent environmental compensation issues for future seabed leasing, with TCE (or, in Scotland, CES and/or Marine Scotland) undertaking activity up front in order to facilitate project level consenting.
+Offshore Wind Champion recommendations
+Recommendations to government:
+As noted above, seabed leasing for Offshore Wind should operate within the context of a high-level strategic framework for the entire energy system.
+HMG and the Devolved Administrations should invest in completing and maintaining (based on appropriate data, including TCE’s multi-sectoral whole-of-seabed evidence base) their respective marine planning and spatial prioritisation programmes, incorporating national level planning for the marine energy system, so that TCE and CES can take that input into account in the design of future seabed leasing rounds, thereby minimising attrition, conflict and challenge.
+It will clearly be essential to maximise colocation and coexistence between marine users before moving to prioritisation; HMG and the Devolved Administrations should consider how they incentivise innovation in technologies that will facilitate that.
+As part of its pan-system stewardship responsibility, DESNZ should put in place processes to avoid or mitigate conflicts between seabed leases for Offshore Wind and licensing rounds for both Oil & Gas exploration and CO2 sequestration.
+In the context of REMA, HMG should consider whether existing or new “locational signals” incorporated into the market design (including TNUOS charges) are appropriate for Offshore Wind, given that public bodies effectively already determine where Offshore Wind Farms should be located through seabed leasing and their siting is geographically constrained by resource and marine spatial planning considerations.
+Recommendations to The Crown Estate and Crown Estate Scotland:
+TCE and CES should design future programmes of leasing (including extension projects) with maximum advance signalling and seek to maintain an appropriate rhythm and pace to the projects pipeline, thereby giving investment confidence to developers, ports and the supply chain, as well as ensuring liquidity for future CfD allocation rounds.
+Consistent with the high-level strategic framework noted above, TCE and CES should continue deepening alignment between their leasing programmes and the ESO (or Future System Operator) to improve grid connection certainty for future leases. The guiding principle should be to get as close to a de-risked “plug-and-play” offer to developers as possible. Figure 7 suggests how system improvements to the seabed leasing process could be implemented.
+TCE and CES / Marine Scotland should take and share lessons from Celtic Sea FLOW, ScotWind and future seabed leasing rounds on pre-leasing surveys and other enabling actions, as well as making appropriate use of the new strategic compensation arrangements in the OWEIP, as a means to shorten (and reduce the cost of) post-leasing project development timelines.
+Recommendations to Government, The Crown Estate and Crown Estate Scotland:
+HMG and TCE (for England and Wales) and the Scottish Government and CES (for Scotland)[footnote 19] should seek to enable greater investment into the sector to assist in addressing some of the pan-sector data, environment, infrastructure, supply chain development and innovation challenges that are critical to enabling and de-risking delivery of projects and the overall success of leasing programmes. To the extent there are legislative or other barriers to achieving this, HMG and the Scottish Government should seek to address those.
+Figure 7. Suggested seabed leasing process design.
+Figure 7 is a flowchart showing the suggested seabed leasing process.
+Energy/ Climate/ Nature Policy.
+FSO-led Strategic Framework (underpinned by Marine Spatial Planning and [HND/CSP] Transmission System).
+Leasing Round (Defined and delivered by OWEIP: marine Recovery Fund; Strategic Compensation; Offshore Wind Environmental Standards).
+Consenting (De-scoped/De-risked by OWEIP).
+Delivery (Stronger context for supply chain, enabling investments)
+Case Study: Offshore Wind having an impact in Grimsby
+Grimsby in North East Lincolnshire has seen significant Offshore Wind investment.
+Located at Grimsby’s Royal Dock, Ørsted’s East Coast Hub hosts long-term operations and maintenance of their operational East Coast offshore wind farms. There are 520 people currently employed at the East Coast Hub in the Humber; 230 directly employed by Ørsted and the remaining being long term operations and maintenance contractors. Over the period to 2030, the number of people working out of the East Coast Hub will increase to over 800, adding 250 high value jobs in the green economy.
+RWE has also chosen the Royal Dock for a major strategic commitment to the UK’s east coast with the creation of its state-of-the-art operations hub. This new facility is expected to accommodate around 140 RWE employees, with indirect jobs required in support.
+The Grimsby Exploratorium aims to be the renewables national centre of excellence when it is set to open later in 2023. Focused on the next generation, the site will showcase what renewables has to offer for young people, the site will offer an immersive, hands-on experiences for children and adults, with over 200 schools already in discussions to visit.
+Located in the Port of Grimsby, ORE Catapult’s UK Operations & Maintenance Centre of Excellence (O&M CoE) is building on the Humber region’s energy heritage and extensive experience of servicing offshore wind farms. The O&M CoE is a national hub for enhancing the UK’s world leading position in Offshore Wind operational performance. It is a catalyst for innovation, technology, cross-sector collaboration and best practice to enhance safety, reduce cost and support the growth of UK O&M.
+Opportunity 2: Consenting
+Background
+Offshore Wind Farms are consented under legislation and processes applicable to all large-scale electricity generation: in England, the Planning Act 2008 DCO process applicable to NSIPs; in Scotland, section 36 of the Electricity Act 1989; and in Wales the NSIP process for projects in excess of 350MW capacity, and the Electricity Act for smaller projects. Projects usually also require a Marine Licence under the Marine & Coastal Access Act 2009 in England and Wales, and the Marine (Scotland) Act 2010 (inshore) and Marine & Coastal Access Act (offshore) 2009 in Scotland.
+Implementation of these processes is guided in England and Wales by National Policy Statements (the current NPSs for renewable energy and network infrastructure date back to 2011, with updated NPSs expected to be designated later this year), the UK Marine Policy Statement (UK MPS) and Marine Plans; and in Scotland by the UK MPS and Scotland’s draft Energy Strategy and Just Transition Plan, National Planning Framework 4, National Marine Plan, and the Sectoral Marine Plan for Offshore Wind Energy.
+HMG and the Devolved Administrations designate Marine Protected Areas. These include Special Protection Areas and Special Areas of Conservation under the Habitats Regulations, Marine Conservation Zones and Highly Protected Marine Areas (HPMAs) in England, Wales and Northern Ireland under the Marine & Coastal Access Act, and Nature Conservation Marine Protected Areas in Scotland.
+The purpose of these designations is to restore, conserve and maintain biodiversity by protecting key habitats and species. Due to the highly protected status of HPMAs, it is not expected that development will be permitted in these areas. Offshore Wind Farm developers are required to consider the environmental impacts of their projects on other Marine Protected Areas. This information is scrutinised by the decision-maker who subsequently undertakes the formal environmental assessment and takes the final decision on whether to consent to the Offshore Wind Farm based on advice from SNCBs and other relevant authorities.
+Developers must first demonstrate how they propose to avoid, reduce or mitigate any impacts on protected habitats and species. A plan or project cannot be consented if it is not possible to rule out an adverse effect on site integrity for Special Areas of Conservation and Special Protection Areas. For Marine Conservation Zones and Nature Conservation Marine Protected Areas, the same applies for any act that has a significant risk of hindering the achievement of a site’s conversation objectives.
+However, where impacts cannot be avoided, reduced or mitigated, the competent authority (or the appropriate authority where they are different), such as the DESNZ Secretary of State, can consider whether the plan or project should be considered for a derogation.
+Under the Habitats Regulations, a derogation may be used if the competent authority is satisfied that it is necessary due to Imperative Reasons of Overriding Public Interest (IROPI); that there are no alternatives to the proposed project; and that environmental compensation can be provided to offset the damage being caused. For Marine Conservation Zones (under the Marine & Coastal Access Act) and Nature Conservation Marine Protected Areas (under the Marine (Scotland) Act), a developer must demonstrate that there is no other means of proceeding that would lower the risk of achieving the protected area’s conservation objectives and that the public benefit outweighs the risk of environmental damage; and that it is possible to provide Measures of Equivalent Environmental Benefit (MEEB) for Marine Conservation Zones and Nature Conservation Marine Protected Areas.
+If a derogation is used, there is a duty on the competent authority to secure compensatory measures. Conditions are attached to developer consents, to ensure that the overall coherence of the national site network is protected. The competent authority cannot consent the project unless these compensatory measures can be shown to be secured and deliverable. The measures must also be in place and shown to be effective before the damage takes place to the protected site. The purpose of compensatory measures is therefore to offset unavoidable adverse environmental effects that hinder site conservation objectives of Marine Conservation Zones/Nature Conservation Marine Protected Areas and maintain the coherence of the national site network (Special Areas of Conservation and Special Protection Areas).
+These consenting processes are coordinated by the Planning Inspectorate in England. In Wales, consent is required from the Planning Inspectorate for projects over 350MW, or from Welsh Ministers following a recommendation from Planning and Environment Decisions Wales (PEDW) for projects below 350MW, as well as a Marine Licence from Natural Resources Wales in all cases. Marine Scotland coordinate consents in Scotland. Figure 8 sets out a detailed process map for DCO applications in England, once developers have completed extensive pre-application studies and project development. The processes for consents devolved to Scotland and Wales have similar features.
+Figure 8: Detailed process map for applying for a DCO in England
+Application Accepted
+>
+Pre-Examination
+>
+Examination
+>
+Recommendation
+>
+Decision
+>
+Post Decision
+Time taken
+28 days
+3 months
+6 months
+3 months
+3 months
+-
+Developer
+Submits application
+-
+Responds to questions
+-
+Responds to questions
+In the event that the Application were to be refused, can launch legal challenge.
+Discharge requirements.
+Planning Inspectorate
+Reviews adequacy of consultation undertaken by developer, accepts project if documentation submitted meets minimum quality standards
+Publishes all documentation on website, invites interested parties to register via relevant representations, appoints examining authority, reviews relevant representations
+Holds preliminary meeting to discuss procedural issues and to set the timetable for examination, all parties notified of examination timetable
+Examining authority examines application. Examination primarily conducted through written representations, although hearings are usually held. Interested parties can make written / aural representations about the application
+Examining Authority drafts recommendation for DESNZ Secretary of State, and drafts Development Consent Order (DCO)
+-
+Publish decision letter and DCO.
+Confirm requirements have been discharged.
+DESNZ
+-
+-
+-
+-
+Undertake HRA Resolve any unresolved issues
+Draft decision letter, make any necessary changes to the DCO, prepare comms SoS grants or refuses consent, may consult
+6 week window for the Secretary of State’s decision to be challenged legally
+Natural England
+-
+Can register as interested party
+Provides written representations, with focus on complex cases with significant outstanding issues / risks to the environment
+-
+Provides written advice to DESNZ if the department has queries around environmental impacts
+-
+Local Authorities
+-
+Can register as interested party
+Submits local impact report
+Can make representations about the application
+-
+-
+Can launch legal challenge
+Local communities & affected persons
+-
+Can register as interested party
+Can make representations about the application
+-
+-
+Can launch legal challenge
+Other interested parties
+-
+Can register as interested party
+Can make representations about the application
+-
+-
+Can launch legal challenge
+Source: DESNZ
+As Offshore Wind Farms have become more numerous, larger in scale and more complex, these processes have become strained. The impacts of deployment, particularly in areas such as the North Sea, have required projects to develop detailed environmental assessments to calculate and address their effects on the marine environment. Uncertainties in the evidence base have caused delays in determining a project’s impact, and increasing deployment has meant projects are increasingly having to compensate for their effects due to overlaps with Marine Protected Areas. The novelty and untested nature of many forms of compensation has introduced additional uncertainties into the consenting process, and in general it has become increasingly difficult to structure acceptable compensation on a project-by-project basis.
+Impact on DCOs
+Because of this, there have been increasingly frequent occasions where the Planning Inspectorate and SNCBs have not been able to provide an unequivocal view of a project’s approvability. In these cases, additional evidence gathering and scrutiny has been needed by HMG, extending the determination phase of the consenting process. These issues have often been compounded by the parties debating adverse effect throughout the examination and therefore only aligning on compensation measures late in the DCO process.
+Accordingly, notwithstanding the UK’s world-leading experience in deploying Offshore Wind at scale, for three of the last Offshore Wind Farms to be granted a DCO in England, the DESNZ Secretary of State has been required to conduct extensive consultations after receiving the Planning Inspectorate’s recommendations in order to proceed with the DCO decision. No Offshore Wind Farm DCO application has been approved within the statutory timetable since January 2019.
+In addition, as the number and complexity of Offshore Wind Farm applications has increased, resourcing, skills (and funding) of the Planning Inspectorate and SNCBs has not kept pace, and digitalisation of the process has been slow, further inhibiting processing speeds.
+The net result is that timelines from submission of a DCO application to a DCO being granted have ballooned, going significantly beyond the statutory timeframe of 18 months. See Table 2.
+Table 2.
+Offshore Wind Farm
+MW capacity
+Months from application to the Planning Inspectorate recommendation
+Brief summary of the Planning Inspectorate reasons to recommend refusal
+Months from application to final DCO from the Secretary of State
+East Anglia Three
+Up to 1,200 MW
+16
+None (recommended approval)
+21
+Hornsea 3
+Up to 2,400 MW
+14
+Habitats; compensation
+32
+Norfolk Boreas[footnote 20]
+Up to 1,800 MW (limit now removed)
+19
+Habitats; compensation
+30
+Norfolk Vanguard
+Up to 1,800 MW (limit now removed)
+15
+Habitats; compensation
+44 (original decision quashed by Judicial Review)
+East Anglia ONE North[footnote 21]
+Up to 800 MW
+23
+None (recommended approval)
+29
+East Anglia TWO
+Up to 900 MW
+23
+None (recommended approval)
+29
+East Anglia TWO
+Up to 900 MW
+23
+None (recommended approval)
+29
+A further result of policy uncertainties in relation to consenting of Offshore Wind Farms has been an increase in the risk of Judicial Review challenges to Offshore Wind Farm consents, resulting in further delays. It is notable that ultimately Judicial Review has not resulted in the cancellation of any Offshore Wind Farm that has received a DCO. See Table 3.
+Table 3.
+Offshore Wind Farm
+MW capacity
+Original DCO issue date
+Brief summary of basis for Judicial Review
+Final date of issue of revised DCO
+Norfolk Vanguard
+Up to 1,800 MW
+1 July 2020
+Failure to take proper account of cumulative onshore impacts between the Norfolk Vanguard and Norfolk Boreas projects
+11 February 2022
+East Anglia ONE North
+Up to 800 MW
+31 March 2022
+Claim 1: flood risk, heritage impacts, noise, generating capacity of the project, cumulative impacts and alternatives
+Claim 2: use of Non-Disclosure Agreements by the Applicant
+N/A (challenges ongoing)
+East Anglia TWO
+Up to 900 MW
+31 March 2022
+Claim 1: flood risk, heritage impacts, noise, generating capacity of the project, cumulative impacts and alternatives
+Claim 2: use of Non-Disclosure Agreements by the Applicant
+N/A (challenges ongoing)
+Fast-track DCOs, the Offshore Wind Environmental Improvement Package (OWEIP) and updated NPSs
+The British Energy Security Strategy outlined a package of measures designed to update the planning processes within which Offshore Wind Farms are consented, with the aim of accelerating deployment whilst continuing to protect the marine environment. Such updates should also clarify and give greater certainty to the policy position, allowing the Planning Inspectorate and other stakeholders more confidence to support Offshore Wind Farm planning applications whilst also reducing the risk of delays from Judicial Review. These are now in the process of being implemented. The core purpose and status of each measure is noted in Table 4.
+Table 4.
+Measure
+Status
+Purpose
+Establishing a Fast Track consenting route to reduce the offshore wind consent time down to one year for priority cases where quality standards are met.
+The Levelling Up and Regeneration Bill, which includes clauses for the Secretary of State to request a shorter examination, has passed through the House of Commons and is progressing though the House of Lords. Anticipated Royal Assent is Summer 2023. Further NSIP reform measures that will support the delivery of Fast Track consenting include an enhanced pre-application service and the development of cost-recovery mechanisms for the Planning Inspectorate and SNCBs.
+The purpose of the measure is to enable NSIP consents to be granted within 12 months for applications that meet quality standards. Fast Track consenting is being developed to provide more certainty in the consenting process as well as shortening timelines which is an important part of achieving the British Energy Security Strategy deployment ambitions. The success of the Fast Track process for Offshore Wind will be heavily reliant on effective implementation of the OWEIP measures improving the quality and certainty of consent applications.
+Strengthening the Energy National Policy Statement (NPS) for Renewable Energy to reflect the importance of energy security and net zero.
+DESNZ (formerly BEIS) consulted on the NPS in 2021. Following the British Energy Security Strategy, HMG strengthened the NPS, in particular EN-1, EN-3 and EN-5.
+DESNZ will re-consult on these documents shortly.
+The purpose of updating the NPSs is to ensure they fully reflect the strategic importance of new Offshore Wind and related energy infrastructure, which will support the delivery of UK’s energy security and affordability ambitions, and to deliver on Net Zero.
+Developing an Offshore Wind Environmental Improvement Package (OWEIP) to address the impacts of offshore wind infrastructure in the marine environment. The package will help to speed up the consenting process whilst protecting the environment, and will include measures to:
+– deliver Offshore Wind Environmental Standards;
+– review the Habitats Regulations Assessment (HRA) and provide guidance to streamline HRA and Marine Conservation Zone assessment process for offshore wind projects;
+– work with industry and SNCBs to set up a library of strategic environmental compensatory measures strategically across one or more offshore wind projects to compensate for adverse environmental effects on protected sites that cannot be otherwise avoided, reduced or mitigated;
+– implement one or more voluntary Marine Recovery Funds into which developers can pay to deliver their compensation obligations; and
+– introduce strategic monitoring to improve our understanding of the marine environment and the measures needed to further protect it.
+HMG tabled amendments on environmental assessments, strategic compensatory measures and the Marine Recovery Fund to the Energy Bill on 9 January. Royal Assent is currently expected in summer 2023. HMG is intending to consult on more detailed proposals for environmental assessments and the Marine Recovery Fund, to be delivered in subsequent guidance and regulations, in summer 2023. HMG is continuing to work with Devolved Administrations on the development of OWEIP measures, to ensure these measures work effectively for, and consider the unique circumstances of, the Devolved Administrations.
+Defra and Natural England are designing an improved approach to facilitate collaboration in monitoring in England across multiple Offshore Wind Farm sites. They are collaborating with industry on related workshops to be held in spring 2023.
+Defra also intends to engage extensively during spring/summer 2023 on the design of the Offshore Wind Environmental Standards, working closely with Devolved Administrations, and intends to consult in the autumn.
+The OWEIP will set out new approaches to delivering mitigation and compensation at a strategic level, earlier in the application process. Collectively these measures will simplify the consent process and enable earlier identification and provision of mitigation and compensatory measures, supporting faster decision-making, whilst continuing to protect and enhance our marine environment and meet the UK’s international obligations.
+In parallel, DLUHC have recently published a NSIP Action Plan, which sets out a roadmap for further reform and streamlining of the DCO process, including further digitalisation and a reform of the Environmental Impact Assessment process, which will move to Environmental Outcome Reports (EORs). In addition, several of the OWEIP measures are targeted towards the pre-application phase of development, with the aim of enhancing the quality of consent applications, providing, for example, more certainty over the adequacy and deliverability of any required compensation measures.
+Critically, the Levelling Up and Regeneration Bill also recognises the resourcing and funding issue noted above and includes powers for the Planning Inspectorate and SNCBs to recover their costs from applicants; and HMG has allocated further funding to those bodies in the interim to ensure that resourcing challenges can start to be addressed.
+Devolved Administrations
+Scotland now accounts for 72% (30 GW) of seabed leases granted but not yet developed, and material activity will take place in Wales in the coming years as a result of TCE’s Celtic Sea FLOW leasing round and anticipated future Celtic Sea leasing.
+Recognising this, the Scottish Government (which has also experienced Judicial Review challenges in the context of Offshore Wind, including in respect of the Neart Na Gaoithe, Inchcape and Seagreen projects):
+is undertaking a consenting streamlining exercise
+is strengthening policy context through Energy Strategy and Scotland’s National Planning Framework 4
+is planning for a new National Marine Plan, to provide updated policy framework for management and use of Scotland’s marine area; and
+has established a Strategic Advisory Group to bring fishers and developers together
+In Wales, the devolved government has:
+commissioned an independent review of marine licensing consenting and supporting advisory processes to remove barriers
+committed to an Infrastructure Consenting Bill in 2023 to introduce a streamlined infrastructure consenting process in Wales; and
+is working with Natural Resources Wales undertaking a review of resource needs and evidence gaps to ensure consenting and advice services can keep pace with the growth in renewables
+Data
+A lack of reliable data is a major contributor to delays in the consenting process, in particular in relation to Habitats Regulations matters, where lack of alignment on baselines leads to misalignments as to impacts and compensation measures and contributes to what can become a quite adversarial (as opposed to procedural) process. The UK reviews and reports to Parliament on Marine Protected Areas’ conservation objectives every six years (HMG has set a Marine Protected Areas target for 70% of features to be in favourable condition by 2042, with the remainder in a recovering condition). However, more general marine habitats data collection typically focusses on the needs of specific projects or programmes.
+TCE and Marine Scotland have both invested significant sums in seeking to improve data collection and the evidence base to support consenting, through their Offshore Wind Evidence and Change (OWEC) and Scottish Marine Energy Research (ScotMER) programmes. There are also numerous other research initiatives which are ongoing to help fill evidence gaps associated with Offshore Wind development (e.g. ORJIP, ECOWind, Offshore SEA Research Programme, OWIC P2G research, ORE Catapult). OWEC’s Offshore Wind Evidence and Knowledge Hub (OWEKH) seeks to consolidate into a single portal the linkages to various available sources of data needed to streamline the environmental impact assessment and consenting process.
+In addition, the OWEIP anticipates implementing strategic monitoring, which seeks to improve how monitoring approaches can be more collaborative across multiple Offshore Wind developments in order to deliver complementary and targeted monitoring programmes to achieve shared monitoring goals. Similar programmes in Scotland (the Scottish Regional Advisory Group) and the Netherlands (WOZEP) have demonstrated the value of a collaborative approach.
+Much of the data that is collected for specific projects, as well as through the above programmes, and indeed from other marine industries, is ultimately shared across stakeholders, either through TCE’s Marine Data Exchange or in publicly available Planning Inspectorate documentation. But there has historically been limited standardisation of data, and obviously data becomes stale over time when not updated. There are research projects underway to try and address this issue. For example, the Planning Offshore Wind Strategic Environmental Data and Information Network (POSEIDON) is an OWEC project that has collated existing data and performed a gap analysis. It discovered several technical issues associated with standardisation of environmental data and can therefore provide lessons learnt to inform on improved data collection and standardisation.
+Additionally, Marine Scotland is undertaking its own review of environmental data standards in Scotland to determine where the data is, how it should be used, and where it should be stored.
+Both the Marine Data Exchange and the Planning Inspectorate databases lack some aspects of functionality that would improve their effectiveness. The Marine Data Exchange has recently been updated to improve certain elements of the accessibility and functionality of its system (for example, to include a spatial search function).
+Radar
+Whether consented through the DCO or Section 36 Consent route, Offshore Wind Farms in air defence radar line of sight are required to reach agreement with the Ministry of Defence as to their impact on air defence radar coverage as a condition to proceeding with work. This process is managed through a Ministry of Defence/OWIC-led Joint Taskforce comprised of representatives of OWIC, Ministry of Defence, DESNZ and TCE, and operates on the basis that developers pay the Ministry of Defence for radar mitigation.
+The need to interface with critical national security and defence of the realm processes, much of which is necessarily secret, and the timeframes for which are not driven by commercial or energy project needs, creates significant cost and delay risks for individual projects.
+A two-year long procurement competition for a solution was intended to launch in January 2022, but OWAT has seen it progressively slip further to the third quarter of 2023. These delays mean AR4 and AR5 projects will now require interim bilateral agreements with the Ministry of Defence. This is placing increasing uncertainty and risk on affected developers as they approach FID, exacerbated by the asymmetry of access to information.
+Related issues are also arising in respect of civilian radar systems, addressed by the DESNZ-led Aviation Management Board and a number of OWIC-led workstreams.
+Offshore Wind Champion recommendations
+Recommendations to Government:
+Given the projected expansion of Offshore Wind activity in Scotland and Wales over the next period, it will be critical to ensure that the detailed design of the OWEIP measures in guidance and secondary legislation works across the entire UK, recognising the various elements of devolved and reserved competence. HMG and the Devolved Administrations should work collaboratively with the aim of minimising complexity for both developers and the bodies and individuals responsible for practical implementation.
+HMG should accelerate the delivery of guidance on the OWEIP measures and ensure that the secondary legislation required to enact and deliver the OWEIP measures in progressed through the necessary Parliamentary processes as quickly as possible. These measures have the potential to transform how compensation is delivered in terms of speeding up consents and improving the environment simultaneously.
+As noted in HMG’s policy statement for the OWEIP measures, at present compensatory measures should be targeted at providing benefit to the specific habitat or species that is being impacted, i.e. ‘like-for-like’. To support accelerated deployment, where like-for-like measures are not possible HMG should enable developers to provide broader measures that improve wider marine ecosystems but are not targeted at specific impacted habitats, species or protected sites, including undertaking work already identified by Government to improve the condition of protected species and habitats. This should increase the number of measures available to developers and also accelerate marine recovery for some sites.
+HMG should keep Habitats Regulations processes under review to ensure that OWEIP changes deliver the required acceleration (whilst maintaining appropriate environmental protection), recognising that the EU is promoting their own set of streamlining measures albeit on a temporary basis.
+HMG and the Devolved Administrations should recognise the central importance of planning agencies and SNCBs in the timely delivery of Offshore Wind Farms (as well as national grid upgrading ASTI projects and other NSIPs) and ensure adequate skills, training, resourcing and funding. This will be key as some of the more complex tools being implemented in the OWEIP – including strategic compensation and the Marine Recovery Fund – are operationalised. Figure 2 highlights clearly how the volume of Offshore Wind Farm projects submitting applications is projected to ramp up very significantly over the coming years, and new issues around repowering and decommissioning for which policy is not yet fully developed will also become relevant. Planning agency and SNCB staff should see themselves as critical enablers of Net Zero, and valued and incentivised accordingly, with skills retention given due priority.
+HMG and the Devolved Administrations should ensure that their respective planning agencies and SNCBs consider creating internal structures which consolidate Offshore Wind experience, skills and best practice, so as to ensure consistency of approach across the UK.
+HMG and the Devolved Administrations should ensure that digitalisation of the DCO and devolved planning processes is completed as soon as possible.
+HMG should ensure that application quality standards for access to the new Fast Track DCO process being legislated in the Levelling Up and Regeneration Bill are appropriate to Offshore Wind infrastructure (reflecting, and integrated with, the OWEIP measures) and facilitate good quality Offshore Wind Farm applications being eligible. The enhanced pre-application services contemplated in the NSIP Action Plan should seek to guide applicants into the Fast Track DCO process.
+HMG should ensure that Offshore Wind Farms are included in any piloting or trial of the new Fast Track DCO process to ensure its suitability for accelerating the Offshore Wind consenting process. The TCE Leasing Round 4 projects would be obvious targets for piloting.
+Recommendations to Government and Industry:
+Ongoing Defra-OWIC Collaboration on Offshore Wind Strategic Compensation (COWSC, with membership including relevant Government departments, Industry, SNCBs and eNGOs) pilot schemes for the strategic compensation approach being enacted in the OWEIP should be completed as pathfinders for future, and appropriate lessons learned. More broadly an aligned approach on delivery of strategic compensation, including operation of any Marine Recovery Fund, should be sought.
+Industry, HMG and the Devolved Administrations should continue to work together through the OWIC Pathways to Growth workstream to share best practice, ensure high quality planning applications, and to iron out any teething issues arising from OWEIP implementation.
+Recommendations relating to Radar:
+HMG should consider whether it remains appropriate for Offshore Wind developers to fund radar mitigation schemes on the basis of the existing “polluter pays” principle, especially given the scale of radar upgrades now required, and recognising that these costs are ultimately passed back to electricity consumers together with the developers’ risk premia and financing costs. This approach seems particularly open to question to the extent that the Ministry of Defence’s procurement is solving for wider systems upgrades not solely linked to Offshore Wind.
+HMG should consider whether the development of wind farms (onshore and offshore) is now sufficiently established as critical national infrastructure needed to deliver our Energy Security and Net Zero ambitions that compatibility with wind farm equipment should be incorporated as a standard requirement for all future Ministry of Defence surveillance and air traffic control radar procurement processes.
+Recommendations relating to Data:
+As remote survey drone and buoy technology (resident vehicles) evolves and reduces in cost, HMG, the Devolved Administrations, TCE and CES should consider options for systematically collecting and maintaining up-to-date baseline marine habitats data.
+HMG should seek to establish collaborative marine habitats data sharing with neighbouring countries to amplify the benefit from their separate evidence bases, including via arrangements with the North Seas Energy Cooperation (NSEC)[footnote 22].
+TCE, Scottish Government / CES, Welsh Government, the MMO and relevant SNCBs should seek to reach alignment on common data collection standards for all environmental data relevant to Offshore Wind to ensure pan-UK consistency and useability.
+Scottish Government / CES and TCE should align on the use of the Marine Data Exchange as a single UK-wide national database for all marine environmental data. To the extent the Scottish Government requires its own database, the two should be linked for the benefit of pan-UK users.
+TCE and CES should review data deposit obligations imposed on developers as part of seabed leasing processes (both in auction and lease conditions) to ensure they are aligned with common data standards and data handling arrangements.
+HMG and the Devolved Administrations should review data collection and deposit obligations imposed on developers as part of DCOs or Section 36 Consents (including in the context of strategic monitoring contemplated by the OWEIP measures) to ensure they remain aligned with common data standards and data handling arrangements.
+TCE should consider the opportunity for greater input from the UK’s world-leading academic sector’s marine ecology and data science specialisms to facilitate development of the Marine Data Exchange.
+Case study: The Offshore Wind Growth Partnership
+OWGP Activity:
+The OWGP programme, funded by members of OWIC and delivered by ORE Catapult, is designed to accelerate the growth of the UK offshore wind supply chain.
+OWGP has allocated £17.29m in funding in grants and business transformation programmes to a total of 207 projects.
+OWGP Impacts:
+Reporting from the first £2.1m funding has shown increased turnovers of £15 million, increased exports of £4 million and over £27 million of contracts won or retained. The full programme is forecast to achieve: ~6000 jobs, £750 million increased turnover, and £220 million exports.
+Opportunity 3: Grid connections
+Background
+The post-war grid developed around a fleet of coal-fired and oil-fired power stations, typically located relatively close to our great cities and industrial centres. A major upgrade was undertaken in the 1960s and 1970s to uprate backbone cabling to 400kV (Scotland retains some 132kV lines) and, critically, to connect up the original nuclear power stations, which, unlike those hydrocarbon plants, and for good reason, were located in remote coastal locations.
+The ‘dash for gas’ of the 1990s saw a whole fleet of new gas-fired power plants built, but our national gas transmission system allowed considerable choice over location, and our regulatory model for the allocation of grid charges gave developers clear incentives to build close to demand centres: requirements for significant new network infrastructure were consequently limited.
+And in the past two decades we have managed, adopting an incremental approach, to connect and deliver 14.1 GW of solar, 14.7 GW of onshore wind, and 13.8 GW of Offshore Wind generation capacity without a big overhaul. Figures from Carbon Brief illustrate well the changing nature of grid-connected generation: when the 2008 Climate Change Act was passed, there were 56 centralised plants plus 500 renewables sites; in 2018 there were 3000 large renewables sites and 800,000 smaller sites.
+Indeed, since privatisation of the grid in the early-1990s, only around 50km of new transmission lines have been built in Great Britain each year on average.
+We are reaching the technical limits of that approach, and the ability to connect Offshore Wind Farms to the grid is becoming increasingly constrained. At times Offshore Wind Farms are paid to stop generating when it is too windy – the grid simply cannot accommodate the electricity being produced. At the same time, more expensive gas-fired power plants continue to run to ensure demand is met. The ESO estimates that these constraint costs could rise from between £0.5-£1 billion in 2022 to £2-4 billion around 2030.
+This limitation is now manifesting itself in long-dated grid connection dates offered to new Offshore Wind Farms. Connection dates stretching out a decade or more into the future are not uncommon.
+OWAT has worked extensively with Ofgem, National Grid Electricity Transmission, the ESO and Networks Commissioner, Nick Winser, to understand the reasons for this. There are essentially two key issues at play here:
+Physical capacity:
+There are material constraints on the grid’s physical capacity to transmit energy around Great Britain, in particular North-South. Arguably this is the result of the design of UK electricity regulation: Ofgem, as regulator, having historically prioritised minimising short-run consumer costs and not promoting anticipatory investment. Work has started to address this with the publication of the Holistic Network Design (HND)[footnote 23] in the summer of 2022 and Ofgem’s bulk approval of Accelerated Strategic Transmission Infrastructure (ASTI) projects in December 2022, with a follow up exercise to the HND due shortly.
+However, the ASTI projects are all subject to planning permission, which has historically proved difficult for onshore overhead transmission (not all of the required new transmission can be pushed offshore, and offshore cables are not risk-free in terms of environmental protection or security). DESNZ is consulting on possible “community benefits” approaches[footnote 24], and Nick Winser’s report (due in June 2023) will provide advice on further steps that might be taken to speed up the planning and procurement processes for transmission projects.
+In addition, the supply chain for the cables and other equipment needed for these projects requires development, and Nick Winser’s report will also make recommendations in that regard.
+The Queue:
+Generator connection applications to the grid have historically been, and continue to be, handled on a ‘first-come, first-served’ basis, without reference to how realistic a generator’s proposed project might be. Accordingly, when a new application is made, it is assessed in the context of all prior applications (referred to by the ESO as the ‘contracted background’).
+This system worked well at a time when only a small number of large gas-fired power plants were under development at any one time. But the system has become overwhelmed with the advent of widespread renewables projects. The queue presently includes over 140 projects representing over 300 GW of generation (3 x current Great Britain total generation capacity). Many of those projects will never be built but essentially sit on the connection offer as a speculative asset, in many cases seeking (and obtaining) periodic extensions to contractual timeframes.
+During the period in which OWAT has been undertaking its work, the ESO has been running a ‘TEC Amnesty’, allowing grid connection capacity to be surrendered without penalty, in the context of a commitment to implement more robust ‘Queue Management’ clauses which will allow connection offers to be cancelled where projects do not demonstrate sufficient progress against contractual milestones. To date this amnesty has seen a relatively low amount (approximately 5 GW) of connection capacity applying, with minimal impact on the overall ‘contracted background’.
+Coordinated Offshore Transmission
+Separately, and in parallel with OWAT, DESNZ, Ofgem and National Grid ESO have been working with developers on promoting coordinated offshore grid solutions in order to minimise the number of coastal landing points for Offshore Wind Farm-related transmission. As noted in Table 3, the radial connections approach has been a target for several Judicial Review processes.
+The Offshore Transmission Network Review (OTNR), launched in July 2020, to overhaul the piecemeal process of connecting Offshore Wind, has been progressing reforms across the long-, medium- and short-term time horizons.
+Long-term:
+The OTNR’s final set of long-term recommendations for Offshore Wind projects in future seabed leases will be published in the second quarter of 2023 and will focus on developing a framework for a more strategic approach for the deployment of Offshore Wind and Multi-Purpose Interconnectors, adopting delivery models that maximise efficiency and further considering the timing of transmission design and delivery.
+Medium-term:
+Focusing on projects coming through TCE’s Leasing Round 4 and CES’s ScotWind leasing round, the OTNR has led to a completely new, more strategic and joined up approach to connecting Offshore Wind in the HND, discussed above. The HND, for the first time, brought forward the consideration of environmental and community impacts into network planning and combined the connection of Offshore Wind Farms with other nearby projects and wider network reinforcements
+Short-term:
+For those projects not in scope of the HND due to their advanced stage of development the OTNR is working to encourage voluntary coordination. This is focused in areas (such as East Anglia) which have experienced a significant volume of radial connections. To support this DESNZ has launched a £100 million grant scheme to enable successful applicants to continue to develop coordinated designs that reduce impacts for communities and the environment, although, as noted on page 49, this is challenging for projects which are competing for CfDs and which need to factor into commercial arrangements the possibility of one or more of the coordinating projects being unsuccessful in a CfD auction. The intention is that this will be delivered alongside enabling regulatory and policy changes, as well as changes to the NPSs which will put greater emphasis on coordination in the planning process; although affected developers have expressed concerns that policy development timelines, and clarity on risk allocation, are not aligned with real-world project development leading to a reluctance to abandon existing radial grid connection solutions.
+Offshore Wind Champion recommendations
+Recommendations to Government:
+HMG should re-balance Ofgem’s mandate away from its present focus on short-term consumer costs and towards a longer-term view of consumer impacts, including permitting anticipatory investment where appropriate based on a strategic view of the roadmap to the legally binding Net Zero target for 2050, as well as other relevant policy waypoints such as decarbonisation of the power system by 2035.
+HMG should recognise that grid constraints are becoming a significant brake on wider economic activity, not just on Offshore Wind Farms. Implementation of the ASTI grid upgrading projects, and in particular the planning consent processes for those, needs to be put on a very high priority footing, recognising that there will be a need to address community concerns, and also based on a cost-benefit analysis of technical measures that could materially speed up deployment. Similarly, further reforms to the connections queue process should be considered. The recommendations in Networks Commissioner Nick Winser’s report on these issues (however radical) should be taken very seriously.
+HMG and the Scottish Government should undertake a review of the planning regime for onshore transmission in Scotland, recognising that timely delivery of incremental North-South transmission capacity is a key enabler for pan-UK Offshore Wind deployment and Net Zero targets.
+Recommendations to HMG and Industry:
+HMG, Ofgem, the ESO and Industry should accelerate their work on supporting voluntary coordinated offshore connections, ensuring that the development of regulatory and commercial models does not contribute to delays in development of the affected Offshore Wind Farms.
+Recommendations to the ESO, The Crown Estate and Crown Estate Scotland:
+The ESO, TCE and CES should continue their cooperation on the design of leasing rounds. The aim should be to move to a system where grid connection capacity is pre-booked, and transmission system designs pre-agreed, for future leasing rounds; reserved connection capacity would then be allocated between the successful bidders.
+Opportunity 4: The CfD
+The CfD regime has been hugely important in terms of the investability of Offshore Wind Farms in Great Britain, providing a highly creditworthy, 15-year, inflation-indexed, guaranteed price route-to-market. This provides the certainty and bankability required to secure debt financing, and also presents an attractive, stable, long-term equity proposition for certain types of investor, giving lead developers the option to accelerate returns and redeploy capital by selling down stakes.
+Combined with the UK’s world-leading pipeline of seabed leases, which have delivered liquidity into the tender process, CfD auctions have become extremely competitive and been at the forefront of pushing innovation to drive down the cost of Offshore Wind generation for the benefit of both the UK and the wider global market[footnote 25].
+Innovation has moved at such pace that CfD auctions are won using turbine designs not yet fully commercialised, or for which installation vessels do not yet exist. Indeed some industry stakeholders argue that a period of technology consolidation is necessary, and that the industry has been fortunate not to experience a major serial defects issue.
+The singular focus on price as the evaluation metric in the auction, combined with the timing of the auction towards the end of development when cost certainty is greater, has ensured robust price discovery for the benefit of consumers.
+See Figure 9 which maps the evolution of Administrative Strike Prices and auction clearing strike prices for CfD allocation rounds AR1 to AR4 against average turbine size (as a proxy for innovation).
+Figure 9. Historic offshore wind Administrative Strike Prices (ASPs) vs. auction clearing strike prices (GB CfD) with average turbine sizes
+Figure 9 is a line chart showing the ASPs vs auction clearing strike prices from 2017/18 to 2026/27.
+Source: DESNZ
+However, whilst the CfD auction process has seen these significant cost reductions realised, it also has features which act against acceleration and collaboration, and which inhibit the development of the supply chain.
+Acceleration
+Periodicity:
+CfD auctions have historically run on a 2-3 year cycle, meaning that projects achieving their DCO or Section 36 Consent have potentially had to wait 2-3 years for the next CfD auction process. This has been addressed with the move to annual auctions, as confirmed in the British Energy Security Strategy.
+Cautious development approach:
+In addition, the presence of a win/lose auction late in the development process engenders in developers a cautious approach to development: the risk of losing in the auction motivates developers to carefully manage activities and related development expenditure (which can still be up to £500 million for a 1 GW Offshore Wind Farm) until the 18 months period following CfD award within which they are required to reach FID. The result is that upon CfD award, even with a DCO or Section 36 Consent in hand, projects are still not ready to immediately achieve financial close and FID and unconditionally commence construction, resulting in further delay.
+Collaboration
+The win/lose nature of the auction also inhibits developer collaboration, for example in relation to coordinated offshore transmission facilities, or enabling investments in ports or the supply chain. Developers are reluctant to (or cannot) collaborate whilst at the same time aggressively competing for CfDs, and commercial arrangements to collaborate are extremely challenging to align on as developers have to manage the risk that either they, or their potential collaborator, may not be successful in the CfD auction.
+The industry is fixated with projects. As a consequence, many of the ‘system’ led challenges are being solved in a very linear project by project basis, rather than by a collaborative industry-level approach.
+There is a lack of collaboration between developers at the early stage of project advancement and the supply chain and no signals have been established for developers to collaborate to build UK supply chain across the national portfolio.
+Challenges need to be solved at the ‘industry’ level.
+Energi Coast: Report on the barriers facing the UK offshore wind supply chain and actions required to maximise supply chain growth 2023
+Supply chain development
+Periodicity effects:
+Turbine orders have naturally gravitated to the OEM that happened, at the time of the relevant CfD auction, to have most recently iterated the techno-economic performance of its technology, with the historic 2-3 year auction intervals delivering a significant potential order book for that OEM (and a very significant potential UK market fallow period for others). See Figure 10. This lumpiness may have contributed to a reluctance to invest in manufacturing facilities in the UK, notwithstanding the potential to export products not required for UK projects. The move to annual CfD auctions has the potential to mitigate these concerns.
+Figure 10. Turbine OEM share of UK projects over the four CfD auctions
+Figure 10 shows the turbine manufacturer’s (Siemens Gamesa, Vestas, GE Renewable Energy & MingYang) share of UK projects over the 4 CfD auctions. proposed supply chain development lifecycle.
+Source: DESNZ
+Development cycle timing effects:
+As noted above, the placement of a win/lose auction at a late stage of project development engenders a cautious approach to development. Accordingly, developers typically do not place firm orders with ports and the supply chain until after CfD award, but then they are strongly motivated to favour ports and suppliers who can deliver on a relatively short-term basis. Ports and suppliers who might need to invest 2-3 years ahead in new or scaled-up facilities in order to service those orders can find themselves unable to compete. Incumbency and existing capacity, typically located outside the UK and often focussed around ports benefitting from more state support and longer-term economic return horizons than is usual in the UK’s privatised ports system, is favoured.
+Project-specific procurement focus:
+More broadly, the project-by-project win/lose nature of CfD auctions inhibits the development of longer term, aggregated procurement frameworks, reducing pipeline certainty for ports and suppliers.
+Price-only focus effects:
+The focus on price as the only evaluation metric in CfD auctions, for which competition has been intense, has hugely motivated developers to innovate and seek out lowest cost solutions. This has naturally favoured incumbency and existing capacity[footnote 26] over suppliers incurring a ‘start-up premium’ during a new investment or scale-up phase where higher UK energy, port lease, depreciation, training and labour costs cannot be offset by higher productivity.
+CfD Supply Chain Plan policy:
+A Supply Chain Plan requirement was included in the CfD auction with the aim to increase supply chain capacity and productivity. That requirement has been helpful in focussing developers’ attention on supply chain capacity, and required regular engagement with the relevant team at DESNZ. However, the Supply Chain Plan does not change the economic fundamentals for developers: CfD auctions remain won or lost on the basis of price only, thereby motivating them to secure the lowest cost.
+In addition:
+The Supply Chain Plan measures (though does not score) UK content across the whole project life, counting development and capital expenditure and operating and decommissioning costs, rather than focussing on capital expenditure: even figures of 50% UK content in reality rarely mean more than 25% UK content at the capital expenditure phase; it also focusses solely on the specific project, without recognising value from wider strategic investments or export potential.
+The stimulation of a major foreign direct investment through a particular project may not be fully reflected within the Supply Chain Plan. If the investment is triggered by a contract award at FID, the investment is unlikely to deliver significant supply to the specific project, meaning it is not reflected in the Supply Chain Plan for that project.
+Any strategic investment is likely to benefit multiple projects over many years and not one specific project. The Supply Chain Plan does not incentivise collaboration from developers to bring about investments in ports or the supply chain, so the price-only focus remains the dominant force in procurement decisions.
+Finally, the only remedy available in the CfD for a failure by a developer to meet its Supply Chain Plan commitments is the ‘nuclear option’ of withholding approval of Operational Conditions Precedent (and ultimately termination), rather than a more focussed and readily exercisable financial penalty.
+Offshore Wind Champion recommendations
+Recommendations to Government:
+HMG should recognise that whilst the CfD programme has been an undoubted success in supporting large scale deployment and pushing innovation to drive down costs for fixed bottom offshore wind for the benefit of consumers, that success is one-dimensional and has come at the expense of other potential policy objectives such as acceleration, collaboration and supply chain development; and that a re-balancing of those objectives and the associated allocation of risks may be appropriate in the current global context. Whilst also relevant for fixed bottom Offshore Wind, these considerations should form part of a more strategic approach to nurturing FLOW as a new UK success story, which will require significant new port and supply chain investment to be catalysed.
+HMG should recognise that as a result of supply chain constraints as well as increasing costs of capital, CfD strike prices for fixed bottom Offshore Wind are unlikely to continue their downward trajectory, and may need to rise and / or be subject to a more bespoke indexation regime, at least in the short term. Longer term, the build out of incremental supply chain capacity in response to current constraints, combined with further innovation, might be expected to lead to further strike price declines.
+HMG should continue (in the context of REMA, or separately) to explore possibilities for bringing forward the award of CfDs (or future subsidy / route-to-market mechanism), potentially on an as-of-right rather than auction basis, thereby facilitating a more accelerated approach to project development and allowing greater collaboration and earlier placing of orders with the supply chain giving time to make investments. Obviously this would require a robust cost-benefit analysis, recognising the trade-offs between such objectives and a reduced focus on competitive price discovery. In OWAT consideration has been given to two potential models:
+HurdleCfD: This model would give Offshore Wind Farms an entitlement to a CfD upon a certain milestone being reached (eg. DCO or Section 36 Consent) based on a price or schedules of prices established in advance. This would give route-to-market certainty at the outset, facilitating a more focussed approach to project development, greater collaboration and earlier supply chain engagement.
+Obviously setting prices in advance creates the risk that the strike price becomes disconnected from reality, resulting in over-payment (to the detriment of consumers) or stalling of uneconomic deployment; although periodic auctions might still play a role in establishing or testing those prices.
+ForwardCfD: This model would change the eligibility criteria for entry into CfD auctions by removing the requirement for a DCO or Section 36 Consent, thereby providing Offshore Wind Farms with route-to-market certainty at an earlier stage, facilitating collaboration and earlier supply chain engagement whilst retaining competitive price discovery.
+Projects could enter a CfD auction provided they had a seabed lease and grid connection offer in place, based on their level of confidence in the timing of securing a DCO or Section 36 Consent (taking into account the increased certainty delivered by reformed consenting regimes). See Figure 11.
+Figure 11. ForwardCfD concept – theory of change.
+Figure 11 is an example of a forward CfD concept theory of change:
+Year 1-2:
+Lease Award
+Env Surveys & Grid Arrangement
+Year 2-4:
+CfD Award
+DCO Determination
+Year 4-6:
+FID
+Year 7-10:
+Construction & Delivery
+Supply Chain - Theory of Change
+Certainty of CfD award enables agglomeration and OEM frameworks for critical volume to trigger investment in time to fulfill orders in longer delivery window.
+Year 2-4:
+OEM Frameworks & Agglomeration
+Trigger Investment Decisions
+Year 4-7:
+Development of New Industrial Capacity
+Strategic Investment - Theory of Change
+Earlier end of competitive process enables collaboration across projects/developers to support investment in strategic infrastructure/capacity.
+Year 2-4:
+End of Project/ Developer Competition
+Cross-Project/ Developer Competition
+Year 4-7:
+Strategic Investment- Ports/Construction/O&M Bases, Vessels, Skills etc.
+HMG should consider introducing Non-Price Factors into the CfD auction process as an additional or alternative means of incentivising behavioural change in the areas of weakness noted above:
+Such Non-Price Factors should be objectively measurable at the Operational Conditions Precedent stage, and coupled with a financial adjustment to (at least) remove any actual or implicit CfD strike price uplift if they are not delivered.
+Non-Price Factors should be communicated to developers sufficiently in advance of any CfD auction to allow appropriate changes to be made in project development.
+Non-Price Factors could potentially also support wider HMG policy objectives relating to the Circular Economy, Green Steel and wider industrial decarbonisation, the increased use of Advanced Composite Materials, reduced dependency on Critical Minerals, the creation of Green Jobs or SME economic activity in areas targeted for “levelling up”. See Figure 12.
+Figure 12: Example of a Non-Price Factor – theory of change
+Figure 12 is an example of a non-price factor theory of change:
+Sustainability – Green Steel: NPF of % content ramping up over time
+Green Steel Industrial Strategy: Developed by HMG & steel manufacturer(s) to enable & support scaling
+Green Steel Critical Demand: NPF unlocks volume over longer time – demand supports manufacturer’s investment
+Secondary Processes: Collaboration to place orders for e.g. steel rolling activity in UK
+Fabrication & Supply Chain: OEM fabrication sets up around UK ports, incentivised by established Green Steel supply chain
+Case study: The development of Nigg as a critical offshore wind enabling port
+Global Energy Group (GEG) acquired a former oil fabrication yard in 2011 and has transformed the site into a multi-sector energy facility.
+The site was established in 1972 and was custom built to service Scotland’s emerging oil and gas industry. Since the site was acquired, ongoing investment totalling over £120 million to date has enabled the creation of extensive deep-water quayside and storage acreage.
+A phased development strategy is being delivered that will culminate in the creation of a port Superhub campus by 2025, with serial manufacture and systems assembly, leading the world in floating wind deployment and becoming a key player in hydrogen and nuclear SMR delivery.
+Nigg was recently awarded Green Freeport status as part of the Opportunity Cromarty Firth consortium.
+Offshore Wind Farm projects have been supported from Nigg since 2004, including Scroby Sands, Beatrice, Moray & Inch Cape, Hywind, Moray East and Seagreen.
+Opportunity 5: Ports and supply chain
+Ports
+Ports are critical enablers for Offshore Wind, and a catalyst for wider supply chain development. Early UK Offshore Wind Farms were built using a combination of re-purposed UK ports and several European ports. Ports are needed for staging and marshalling of components in the final assembly and installation process. Ports such as Nigg in the Cromarty Firth, Mostyn in North Wales and Great Yarmouth in Norfolk, have been able to provide this service with modest investment. As turbines increase in size, and with the advent of FLOW, there is a need for more larger scale and better equipped facilities.
+Ports are equally important for manufacturing. Components are of such a size that road transport is impossible and double-handling and transportation is expensive. Therefore, ideally, investment in large component manufacturing should be conglomerated around dedicated Offshore Wind ports accessible to multiple users.
+If we can’t [...] get our ports into a position where they can take advantage of the supply chain, we might get the renewable energy in the Celtic Sea [...] but what we might not get is the wealth creation and the job creation for Wales that could come out of the same opportunity. [...] We don’t want to see just the renewables being exported by international companies with no obligation for local supply chain and local employment opportunities.
+Julie James MS, Minister for Climate Change, Welsh Government Welsh Affairs Committee, 19 January 2023
+However privatised UK ports have been unable to take full advantage of the UK Offshore Wind deployment to date, largely due to a shorter term more commercially-focussed risk appetite than publicly-owned ports in continental Europe, with longer-term investment horizons. The ports of Esbjerg in Denmark and Cuxhaven in Germany have benefited from significant public investment and attracted subsequent private investment. For example, in 2014 the state of Lower Saxony invested €200m in a dedicated offshore wind berth at the port of Cuxhaven: over €400m of private investment has followed including the Siemens Gamesa nacelle assembly plant.
+Given the large increase in projected European Offshore Wind activity (in the EU alone, 2030 deployment targets for Offshore Wind have risen from at least 65GW[footnote 27] to at least 76[footnote 28] GW between May and September 2022), the assumption that the UK can always rely on European ports to service on a timely basis activity which our own ports cannot currently accommodate may become increasingly invalid, presenting a risk of delay to deployment.
+Specific risks which have limited UK port operators’ investment appetites include:
+Development cycle timing effects:
+As noted above, the placement of the win/lose CfD auction at a late stage of project development engenders a cautious approach to Offshore Wind Farm development. Accordingly, developers typically do not place firm orders with ports until after CfD award, but then are strongly motivated to favour ports who can deliver on a short term basis. UK ports, often limited in number in terms of suitability, and who might need to invest 3-4 years ahead in new or scaled-up facilities (including obtaining a DCO or other consents) in order to service a particular project, are unable to compete.
+This same effect limits the ability of Tier 1 OEMs, the most likely source of long-term lease revenues to support large scale capital investments, to sign leases for manufacturing until too late in the development cycle.
+Leasing gap risk:
+The gap between long-term port investments by private sector port operators, and short-term leases driven by short-term construction requirements of individual Offshore Wind Farms, leaves the port operator with a significant exposure to securing future tenants. Although the port may secure tenants in the future, this risk equation is too uneven for most port operators to attract private finance, either equity or debt. Longer term leases are possible for O&M operations, where UK ports have had greater success.
+Lease pricing and exclusivity: Private UK port operators typically seek returns for capital investment over normal commercial timeframes, with private financing often limited to the term of a secured lease. European port operators are typically publicly owned and take a longer view of investment recovery. As a result, land leases alongside ports requiring major investment are typically more (anecdotally, 100% - 150% more) expensive in the UK than in Germany, Netherlands, or Denmark. This leads to an added consequence that where a UK port is funded by a specific tenant or group of tenants, the port is then available for their exclusive use, at least at a contractual level. Ports such as Cuxhaven are available for short-term leases and thus provide the infrastructure for the benefit of the industry and not just one or two developers.
+High upfront capital requirements:
+Capital requirements for port infrastructure projects to support Offshore Wind can be as much as £500 million, meaning multiple funding sources are often required. Larger projects also come with long construction phases in which revenue is either not generated or restricted while construction activities are undertaken.
+Essentially these different risk elements amount to a concern about revenue certainty for long term infrastructure investment focussed on servicing the UK Offshore Wind market. Ports seem to struggle to build an investment case to service a market which, although in principle quite robust, is substantially defined by Government energy policy, seabed leasing and CfD auctions, as well as other enablers such as the build out of national grid upgrades.
+Preparing ports for FLOW
+The above risks are exacerbated in the context of commercial-scale FLOW. As noted in the recent report from the Welsh Affairs Committee on Floating Offshore Wind in Wales, FLOW turbines and substructures are vast engineering projects— substructures alone can measure up to 80 metres across and weigh thousands of tonnes, with turbines heights expected to reach as high as 300 metres (or as tall as The Shard). Port requirements for the manufacture and assembly of FLOW components are therefore significant and need to include sufficient laydown space to hold substructure components and run parallel substructure assembly lines; adequate quayside ground bearing capacity, as well as quay length and draft; and available crane capacity.
+The March 2023 report of the Floating Offshore Wind Taskforce – Industry Roadmap 2040: Building UK Port Infrastructure to Unlock the Floating Wind Opportunity[footnote 29] concluded that FLOW projects in Scottish waters will require 3-5 integration ports, while the Celtic Sea requires 2 integration ports by 2030. In addition, at least 4 ports are required to service steel assembly and/or concrete manufacturing for FLOW, with the configuration of these ports being dependent on the direction of substructure technology. These investments will amount to approximately £4 billion.
+Whilst the UK hosts the world’s largest operational FLOW project, the Kincardine Offshore Wind Farm in Scotland, the absence of necessary infrastructure meant UK ports played only a limited role in its deployment.
+Case study: Kincardine FLOW and the need for UK port infrastructure
+These were then loaded onto a barge taken to Rotterdam.
+[No economies of scale, expensive process.]
+Where the rest of the turbine was attached to the foundation.
+[Assembly location means locally sourced components are more competitive.]
+Before being towed out to Scotland.
+Another went direct to site (480 nautical miles).
+[Multiple stops make the process inefficient.]
+One turbine waited in Dundee docks for an installation window.
+The 6-turbine 50MW prototype project is now operational.
+[One turbine recently had to be returned to Rotterdam for repairs.]
+Supply chain
+If the UK is to accelerate the deployment of Offshore Wind, the supply chain needs to be able to respond to that challenge.
+The UK Offshore Wind market, and its world-leading pipeline of projects, has been a key focus for Offshore Wind supply chains in demonstrating, proving the concept of and scaling-up Offshore Wind generation. Much of this has been built off the platform of principally European technology. Wind power itself had its heritage in countries such as Denmark, Spain and Germany which were early movers in deploying onshore wind, and thus the core technologies such as wind turbine blades, nacelles and towers were built up away from the UK. Key Tier 2 supply chains such as large castings and forgings followed and, as turbines have increased in size, important facilities such as foundries and forges have conglomerated around the OEMs. Specialist services such as heavy-lift installation and construction have concentrated in Belgium and the Netherlands. UK content within Offshore Wind Farms has stuck stubbornly around 50% (and as low as 25% for capital expenditure), despite the industry targeting 60% in the 2019 Sector Deal.
+As energy prices have increased as a result of the war in Ukraine, coastal European nations have hugely increased their focus on Offshore Wind as a more secure, affordable source of electricity generation (and potentially Green Hydrogen production). The rapid increase in deployment targets in the EU alone is noted above, and, in parallel, the US, Asian and other states around the world have announced significant Offshore Wind deployment targets for 2030 and beyond.
+This fundamental shift in demand is happening against a backdrop of significant losses being made by the key Western turbine OEMs in their Offshore Wind businesses. See Figure 13.
+In parallel, global Oil & Gas activity is increasing, giving suppliers to both industries a broader set of opportunities (with different pricing and risk attributes), and transmission owners (including the UK’s, in the context of the HND) are competing for electrical equipment (e.g. cables, transformers, switchgear) production capacity to upgrade their grids to accommodate renewables.
+The result is an ongoing significant capacity crunch accompanied by a (arguably necessary) rebalancing of developer/supplier commercial relationships. Anecdotal evidence suggests that suppliers are being more targeted with their business development efforts, favouring projects offering greater certainty of FID and led by more experienced developers.
+Figure 13. Supply chain challenges put wind margins under pressure
+Figure 13 shows the losses being made by the key Western turbine manufacturers (Vestas, SGRE, Nordex, GE, Goldwind, MingYang & Windey) from 2018 to 2022 Q1.
+Source: Wood Mackenzie
+The capacity of the Offshore Wind supply chain to meet demand is emerging as one of the key constraints to global and UK deployment, but also a very significant economic Opportunity. Figure 14 demonstrates this clearly, showing just major Offshore Wind components and using combined EU, Norway and UK 2030 deployment targets (165 GW).
+Figure 14. Current offshore supply chain capacity vs. capacity needed
+Category
+Current capacity
+Capacity needed to meet 2030 targets
+Turbines
+700 units/year
+Up to 1,300 units/year (x2)
+Foundations
+(bottom fixed)
+Up to 1,300 units/year
+Up to 1,200 units/year (x4)
+Foundations
+(floating)
+Up to 10 units/year
+Up to 100 units/year (x10)
+Vessels
+(installations, cable)
+68 vessels in operation
+124 vessels in operation (x2)
+Source: RWE (based on combined EU, Norway and UK 2030 deployment targets (165 GW))
+Economic activity related to Offshore Wind, with our current deployment of 13.8 GW and 6.4 GW under construction, already supports 31,000 UK jobs. Average annual investment of £17 billion[footnote 30] is projected to 2030 for UK deployment only, with export potential in addition. The OWAT Supply Chain and Infrastructure Working Group has focussed on a number of cases that can be made for a greater focus on growing UK supply chain activity:
+The Risk to Deployment / Energy Security case:
+Energy Security arguably extends beyond just the source of energy generation, but also the means to take advantage of that source. As noted above, global and European Offshore Wind supply chain capacity is materially constrained, and the assumption that the UK can always buy (import) for timely delivery at an acceptable cost what it does not make domestically may become increasingly invalid, at least until additional capacity comes on line. A parallel report commissioned by OWIC and OWGP is expected to set this out in more detail. However, industry stakeholders argue that it is easily identifiable now that port capacity, heavy-lift vessels, HVDC cable and electrical equipment could create significant strategic bottlenecks.
+The Just Transition / Levelling Up case:
+There is a material correlation between the UK’s coastal areas targeted for “levelling up” and the next decade of anticipated Offshore Wind development in the UK. In addition, OPITO has estimated that almost 50,000 UK Oil & Gas sector jobs will be lost by 2030[footnote 31] as a result of the Energy Transition: Offshore Wind offers affected businesses and communities a pathway to continued purpose and prosperity, albeit in an industry with lower margins and focussed on serial production rather than bespoke designs.
+The First Mover Advantage case:
+The UK is the first mover in FLOW, with the largest FLOW deployment globally (78 MW, from 2 projects) and the first and largest single deployed FLOW project. FLOW has the potential to become a truly enormous global industry, opening up the over 80% of coastal seabed unsuitable for fixed bottom Offshore Wind. In the context of the ScotWind, INTOG and Celtic Sea FLOW leasing rounds the UK is poised to become one of, if not the first, country seeking to deploy FLOW at commercial scale, thereby creating a globally significant library of skills, experience and intellectual property. The ORE Catapult’s Floating Offshore Wind Centre of Excellence has estimated that FLOW has the potential to deliver £43.6bn in UK GVA by 2050, creating more than 29,000 jobs in the process. As noted above and set out in detail in the March 2023 report of the Floating Offshore Wind Taskforce – Industry Roadmap 2040: Building UK Port Infrastructure to Unlock the Floating Wind Opportunity[footnote 32], seizing this first mover advantage will be highly dependent on securing investment in appropriate upgraded port capacity.
+The Disruptive Innovation case:
+Wind power, and Offshore Wind as an application within it, has evolved as a sector by scaling up technology which has not evolved fundamentally since its early industrialisation. Early Offshore Wind Farms in the UK, built around 2007-2013, relied on turbines with outputs of around 3-4 MW. Today the same Tier 1 OEMs are marketing turbines of over 15 MW. Yet the machines are fundamentally the same.
+This produces a significant opportunity for disruption of existing supply chains to displace non-UK leadership in certain areas. For example, a recent joint initiative between the National Composites Centre and the ORE Catapult identified that using composite materials for wind turbine towers could reduce levelized cost of energy by 7% by reducing the weight of the system and thus reducing the foundation requirements, as well as reducing maintenance costs. Composite materials are an area in which the UK has comparative advantage. If this technology could be deployed commercially at scale, it has the potential to displace the existing steel tower supply chain. Such disruption opportunities exist across the value chain.
+The Exports case:
+Climate-related technology is expected to be one of the largest and fastest growing global markets in the coming decades.
+Both the US through its Inflation Reduction Act (IRA)[footnote 33], and the EU through its Green Deal Industrial Plan, are responding to these risks, and the wider supply chain opportunities, through fiscal and other concessions aimed at attracting the supply chain capacity expansion investments which should follow from the present context: under the IRA, a 1 GW Offshore Wind Farm will receive tax credits worth $120 million if built with exclusively US content.
+None of the above is to suggest that it’s appropriate for the UK to provide the entire supply chain, even for UK Offshore Wind deployment. Any new approach must revolve around and reinforce an updated industrial growth plan for Offshore Wind, aligned between key stakeholders and based on a sober and thorough strategic competency “make-or-buy” analysis, taking into account the above cases, the UK’s comparative advantages, opportunities for disruption and export potential. There are valuable lessons to be learned about this sort of strategy from, for example, the UK’s approach to Aerospace or Ireland’s approach to Digital Industries.
+European’s energy independence is impossible unless wind power considered a strategic industry ......energy security cannot be achieved through auctions solely based on price ....we need to support domestic innovation, foster technology competence and create indigenous supply chain capacity.
+Siemens Gamesa CEO, Jochen Eickholt: Unlocking European Energy Security, September 2022
+Oil & gas and offshore wind supply chain fungibility
+The UK has a deep, well-respected and highly capable Oil & Gas supply chain, delivering annual exports of £12.7 billion in 2019 on turnover of £27.7 billion[footnote 34]. It is self-evident that the UK should capitalise on that as much as possible in the deployment of Offshore Wind, in particular in the context of FLOW where sub-sea skills and expertise, for which Aberdeen is considered the global leader for Oil & Gas, will be critical.
+Both the 2019 Sector Deal and the 2021 North Sea Transition Deal included commitments to ensure skills passporting arrangements were developed between the two industries, but despite £5m of funding from the Scottish Government’s Just Transition Fund and extensive discussions, alignment between the relevant certification bodies (OPITO for offshore Oil & Gas and GWO for Offshore Wind) has not yet been reached.
+Ports and supply chain support mechanisms
+Recognising the case for building greater Offshore Wind supply chain capability, a number of Government and private sector initiatives have sought to catalyse port and supply chain investment or mitigate some of the perceived investment risks for industry participants:
+OWMIS:
+The Offshore Wind Manufacturing Investment Scheme (OWMIS) was a two-part intervention, launched in December 2020, designed to substantially grow the UK’s offshore wind industrial base. It aimed to capture maximum value from the imminent significant growth of Offshore Wind in the UK through £160 million in capital funding. It sought to do this by addressing market failures limiting investment in the UK’s port facilities and supporting inward investments by strategically valuable coastal manufacturers.
+The scheme at one point was on track to deliver investments in two ports and seven manufacturers. However, development cycle timing effects and leasing risk gaps like those noted above, saw projects losing out due to insufficient commercial interest to proceed within the funding window for the scheme. The scheme is however still on track to deliver one port and three inward investments in manufacturing facilities, enabling over £800 million in total capital investment.
+FLOWMIS:
+In the context of FLOW, which, if the UK is to seize its first mover advantage, will require significant port infrastructure investments ahead of need, the £160 million Floating Offshore Wind Manufacturing Investment Scheme (FLOWMIS)[footnote 35] has been launched by DESNZ with the specific intention of helping operators de-risk the development cycle timing effects described above. The scheme is limited to a funding window of financial years 2023/24 and 2024/25.
+CfD Supply Chain Plan:
+The CfD Supply Chain Plan is described on page 51 above.
+Scotwind – Supply Chain Development Statement (SCDS):
+As part of its ScotWind leasing round, CES requires projects to be developed in a way that supports the sustainability of Offshore Wind development in Scotland. The SCDS will provide a structure for project-specific supply chain information to be communicated with government and industry, through the initial stages of project development to deployment and into operations. The SCDS is designed to support a sustainable Offshore Wind sector in Scotland as a driving force for delivery of Net Zero requirements and a Just Transition.
+SIM and Collaborative Framework:
+Since the announcement of the results of the ScotWind leasing round, SOWEC has coordinated discussions between ScotWind developers to review the pipeline of Scottish Offshore Wind projects and maximise opportunities for strategic investment through a Collaborative Framework. This work led to the development of a Strategic Investment Model (SIM).
+The SIM’s aim is to bring developers of Scottish projects together so that they can identify ways to work collaboratively in order to maximise operations with Scottish ports so as better to underpin new strategic investment. The next phase of work is to identify investment priorities. This work is expected to take place over the first half of 2023. Following this, partners can choose to continue to a second stage, and then to work together to secure investment to bring forward agreed infrastructure priorities.
+In the longer term, this work aims to bring forward necessary Scottish infrastructure for future Offshore Wind projects, helping to make sure that the Scottish supply chain has the capacity and capability to secure work delivering Scotland’s pipeline of Offshore Wind projects.
+OWGP:
+The Offshore Wind Growth Partnership (OWGP), a £100 million supply chain support programme funded by OWIC developers, has been implemented as part of the 2019 Sector Deal. See the case study on page 42 for its impact.
+In addition, several of the UK’s new Freeports (including Celtic, Humber and Teesside) and Green Freeports (including Opportunity Cromarty Firth and Forth) have a focus on Offshore Wind, aimed at attracting national and international manufacturers. Freeports and Green Freeports are Government-backed hubs for investment, trade, and innovation. Eligible businesses on freeport tax sites can take advantage of a range of generous financial incentives designed to help them invest and grow. This includes full business rates relief, employer National Insurance Contributions relief, Stamp Duty Land Tax relief, an Enhanced Capital Allowance, and a Structures and Buildings Allowance.
+Whilst each of these mechanisms has added, or will continue to add, value in the effort to grow Offshore Wind port and supply chain capacity, the cumulative order of magnitude in terms of money and potential impact has been dwarfed by the US Inflation Reduction Act and EU mechanisms; and whilst it remains to be seen how SIM will operate during its next phase, arguably none of these schemes fully targets the specific risk of concern for port operators noted above: longer term Offshore Wind market revenue certainty.
+A NOTE ON CONTRACTING TERMS
+As a projects lawyer, I’ve spent a quite a few hours during my tenure as Offshore Wind Champion talking to supply chain stakeholders about the state of contracting terms in the Offshore Wind sector, and comparisons with Oil & Gas where, in general, it could be said that terms are more commercially balanced.
+At the outset we need to recognise that owners’ risks, incentives, and financing structures, differ significantly across the two sectors. In Offshore Wind the owner, typically a special purpose project company, is seeking to flow down the risks it has assumed in an aggressively priced CfD, to a level acceptable not just to its equity stakeholders, but also to limited recourse project finance lenders who will heavily scrutinise contractual risks around delays and cost overruns, as well as the credit of supply chain counterparties assuming those risks. The owner might also have been able to gain a competitive advantage in the CfD auction itself from its choice of contracting model. In Oil & Gas there is no CfD equivalent, debt providers are less influential and the owner is often more focussed on timely (or accelerated) commencement of production than other factors.
+That said, anecdotes about demands for 100% performance bond coverage or requests that small companies with limited balance sheets at least notionally take on the risk of consequential losses for entire Offshore Wind Farms, suggest that there is an element of dogma here and at least some room for a move towards a more sustainable approach.
+The NSTA’s Supply Chain Collaboration and Cooperation Stewardship Expectation 12 provides a helpful guide to the Oil & Gas sector approach, where the use of well understood and standardised contracts (e.g. Logic) is the norm. The International Marine Contractors Association’s Renewables Contracting Principles is a helpful piece of thought leadership on this topic.
+Offshore Wind Champion recommendations
+Recommendations relating to Ports:
+HMG should recognise that, given the large increase in projected European Offshore Wind activity, the assumption that the UK can always rely on European ports to service, on a timely basis, activity which our own ports cannot accommodate may become increasingly invalid. This is particularly the case for commercial scale FLOW deployment.
+Whilst they provide helpful de-risking capital, the OWMIS and FLOWMIS schemes are not designed to address the key risk of concern to port operators highlighted above: longer term Offshore Wind market revenue certainty.
+A support framework for Offshore Wind ports targeted at that risk by offering a longer-term revenue floor should be explored, recognising that the market risk context for such ports is substantially defined by Government energy policy, seabed leasing and CfD auctions, as well as other enablers such as the build out of national grid upgrades. This could take the form of a backstop lease, an availability or capacity payment mechanism or even a CfD for ports. Such a model could include roles for Government, TCE, CES, UKIB, SNIB and similar agencies.
+HMG and the Devolved Administrations should consider giving ports for Offshore Wind comparable priority to the Offshore Wind Farms themselves in National Policy Statements and equivalents. HMG should consider including an eligible Offshore Wind port in its pilot programme for Fast Track DCOs.
+Recommendations relating to Supply Chain development:
+HMG should recognise Offshore Wind as a national priority as part of its Net Zero Growth Plan and in any response to US Inflation Reduction Act and the European Union’s Green Deal Industrial Plan, recognising the need to be competitive as an investment destination for global businesses.
+A new Offshore Wind Industrial Growth Plan should be jointly developed by HMG and Industry covering Key Infrastructures, Business Environment and Support, Innovation and Skills, based on a sober and thorough “make-or-buy” strategic competency analysis. The plan should:
+Establish a clear vision for UK supply chain in a global context, including exports.
+Identify UK comparative advantage on a component level and identify target areas for investment based on intellectual property creation, GVA and regional impact.
+Identify components for which it is essential to secure a domestic supply to meet deployment ambitions.
+Take a whole value-chain approach, assessing scope for offshore grid, ship-building and maritime innovation, operations and maintenance, as well as core component supply.
+Include quantifiable KPIs, moving away from local content % as a measure of success and towards GVA creation (based on agreed GVA calculation methodology).
+Industry should seek to increase the funding committed to, and the scope of programmes run by, the Offshore Wind Growth Partnership (or an alternate delivery vehicle), aligned around the Industrial Growth Plan.
+The Industrial Growth Plan should underpin all other ports and supply chain development proposals to ensure a consistent and aligned approach. See Figure 15.
+Figure 15. Summary of proposed supply chain development mechanisms.
+Figure 15 shows the proposed supply chain development lifecycle.
+Signpost:
+Emphasis on supply chain development from TCE and CES in seabed leasing processes.
+Increasing level of investment into strategic enabling and de-risking activities in the sector by TCE and CES/Scottish Government, alongside HMG.
+Stimulate:
+Targeted fiscal incentives including via Freeports and Green Freeports
+OWMIS and FLOWMIS support schemes.
+New support framework for Offshore Wind ports.
+Enhanced OWGP programme
+Skills development initiatives.
+R&D and innovation support in line with other strategic sectors.
+Incentivise:
+Consider reform of CfD allocation methodology to examine frequency and signals.
+Adoption of Non-Price Factors to incentivize behavioural changes.
+Agreed industry targets based on GVA.
+Underpinned by the Industrial Growth Plan.
+Further recommendations to Industry:
+Supply chain investment emphasis needs to move from developing and delivering projects to building a sustainable industry, with investments made on the basis of confidence in the addressable market (in the form of a robust and realistically deliverable pipeline of UK Offshore Wind Farms, and increasing export potential) rather than on the basis of specific project-related orders.
+Industry should continue to encourage the use of framework agreements and alliancing to improve pipeline visibility and order certainty.
+OWIC and SOWEC should maintain, and periodically share with HMG and the Devolved Administrations, a risk register of critical supply chain constraints having an impact on UK Offshore Wind Farm deliverability, so as to better inform policy-making as to incentives and support.
+The 2019 Sector Deal and 2021 North Sea Transition Deal commitments to skills passporting between Offshore Wind and Oil & Gas should be delivered, with necessary accommodations made by both sides. If this cannot be achieved on a global basis, consideration should be given to implementing a UK-specific framework (recognising that that would be sub-optimal for global businesses). More generally, a cross-sector approach to supply chains should be promoted.
+Developers, Tier 1 OEMs and EPC contractors should increase their use of the NSTA’s Energy Pathfinder portal[footnote 36] to give subcontract pipeline visibility and access to a wider range of supply chain businesses.
+OWIC and ICMA should work with other stakeholders, including those with the benefit of experience of the NSTA’s approach to contracting, to develop sustainable contracting principles for Offshore Wind, recognising the industry’s particular features.
+Opportunity 6: Innovation and skills
+Innovation
+The EINA shows significant value to the UK in continued (and accelerated) innovation. To 2050, the cumulative benefit of innovation in offshore wind is £18.8 billion.
+The Energy Innovation Needs Assessment (EINA), Vivid Economics, 2019
+Without innovation, LCOE is approximately 10% higher in 2030 and 20% higher in 2040.
+Floating Offshore Wind: Cost Reduction Pathways To Subsidy Free, ORE Catapult, 2022
+The UK Innovation Strategy[footnote 37] defines innovation as “the creation and application of new knowledge to improve the world”. Innovation is a key component of anchoring jobs, intellectual property and manufacturers in the UK. The UK has world-class capabilities in some key areas and excels at primary research but lacks a mid to late-stage innovation focus, often where real long-lasting value is created.
+Innovation is spoken about and aspired to around the Offshore Wind sector, but it is not always clear that the UK has the correct drivers and support mechanism in place to foster and enable risk-taking in development of the cutting-edge products or services that will form the Offshore Wind supply chain of the future, or the tools needed to continue de-risking and optimising the UK fleet. Industry’s current linear project-by-project approach to supply chains is to a large extent decoupled from wider sector challenges of technology readiness, manufacturing readiness and supply chain capacity.
+Many businesses and those in the academic community are doing fantastic things to create new solutions and bring them to market, but this does not seem to be happening at a scale commensurate with the UK’s dependence on Offshore Wind as a key plank of its future electricity generating capacity. There is also lack of centralised leadership and coordination to support Offshore Wind innovation investment based on key target areas, GVA opportunities and comparative advantage. Given that HMG has made Offshore Wind central to its energy policy, the justification would seem to be in place to consider the sector as a strategic industry in the same way as, for example, civil nuclear.
+It is worth noting that innovation in Offshore Wind is considered extremely well aligned to other broader industrial ambitions such as digitalisation and decarbonisation, and the prospect of technological spill-over is high.
+ORE Catapult:
+The Offshore Renewable Energy (ORE) Catapult is the UK’s leading innovation centre for offshore renewable energy, helping to reduce cost, supporting the growth of the industry, and creating UK benefit. It drives the development of commercially viable technologies applicable to offshore wind, wave and tidal power, and offers deep technical expertise and market pathway support alongside large scale plant test capabilities, enabling UK supply chain growth from SMEs to the world’s largest companies. ORE Catapult is headquartered in Glasgow with the National Renewable Energy Centre in Blyth, Northumberland as the main operational facility, and further facilities in Aberdeen, Fife, Edinburgh, Grimsby, East Anglia, Cornwall, Pembrokeshire, Anglesey and Shandong Province, China.
+Innovation Priorities: The OWIC Innovation Workstream has identified three common goals where innovation can play a major role:
+Accelerating deployment
+Reducing capacity constraints; and
+Growing the supply chain
+Beneath this, 6 key objectives have been established with 17 key innovation priorities which have a strong case for support and intervention.
+Spatial planning and accelerating deployment
+Maximize use of sea space and accelerate deployment in consideration with other sea users and environment.
+Creation of a central evidence base of environmental impact
+Novel radar & data processing technologies
+Large scale, long term spatial planning
+Project cost drivers
+Reduce project costs without pressure on supply chain, through efficiencies & improvements & increased reliability.
+Minimise cable failures
+O&M robotics
+Advanced wind farm CMS and data analytics
+Energy integration
+Ensure energy integration has capacity and flexibility required.
+Electricity storage systems
+Flexible and smart grid system solutions accommodating intermittency
+Electrolyser technologies
+Supply chain bottlenecks
+Avoid supply chain capacity bottlenecks including ports, vessels, skills, manufacturing, testing and raw materials.
+Mitigations for material bottlenecks
+Mitigations for manufacturing bottlenecks
+Heavy lift vessel solutions or alternatives
+FLOW
+Enable FLOW solutions and cost reduction.
+Floating substructures - designed for manufacture and assembly
+Dynamic cables
+Moorings & anchors
+Decarbonise the sector
+Vessel decarbonisation
+Recyclability of components
+Innovation Gap Analysis:
+To address the priority innovation areas, it is necessary to understand firstly whether the current scale and nature of industry activity is sufficient. Secondly it is important to determine whether there are sufficient enablers in place to encourage innovation, for example R&D funding or access to test and demonstration facilities. For this reason, the OWIC Innovation Workstream has commissioned an Innovation Gap Analysis, which will reach its conclusions in the Spring of 2023.
+Initial findings from this suggest that enablers for innovation fall into the three key themes below:
+Access to innovation funding
+Access to test & demonstration facilities; and
+Industry cooperation and data sharing
+Access to innovation funding:
+The UK Offshore Wind sector has to date received support from the public sector via the BEIS NZIP scheme and UKRI, that has helped enable innovation to capitalise on the Offshore Wind opportunity.
+A range of other initiatives, driven largely by industry funding, have been established in recent years which are driving forward innovation and helping to foster collaboration. These include:
+The Carbon Trust Offshore Wind Accelerator, Floating Wind and other joint industry programmes.
+The Offshore Renewable Energy Catapult’s Floating Offshore Wind Centre of Excellence: This programme aims, in part, to drive innovations in targeted fields in the life cycle of FLOW, from development, manufacturing and installation to O&M.
+In addition the 2019 Sector Deal unlocked industry investment into the Offshore Wind Growth Partnership (OWGP) and which will channel £100m of supply cain growth and innovation investment over ten years. This has already demonstrated that investment into the Offshore Wind industry would protect and grow indigenous jobs.
+In general these schemes are led by bids from innovators, rather than being focussed on addressing identified strategic Offshore Wind priorities for the UK.
+However, Offshore Wind innovation funding is dwarfed by the levels of public R&D funding and innovation-targeted capital spend made to other industries. Examples include the £500 million committed by HMG to the automotive sector over 10 years and the £1.95 billion support allocated to the aerospace industry over 13 years.
+Provisional findings from a study undertaken by the ORE Catapult, in partnership with the Carbon Trust and 350 Investment Partners, suggests that wider private sector funding is not presently filling this gap: of private sector investment in Clean Tech very little is in relation to offshore renewables. Analysis of Venture Capital transactions points to just a handful of dedicated Offshore Wind related deals – of the top 100 Clean Tech deals, just one was related to offshore renewables[footnote 38] (not from the UK) compared, for example, to 16 for battery technologies. Entrepreneurs in the offshore renewables space point to all the typical start-up issues, but add that these factors are compounded by the scale of the technology (and required prototypes) and complex and long-established global supply chains of the OEMs and developers which are hard to penetrate - even for technologies which are not considered particularly radical. The study observes that within the corporate venturing arms of established Offshore Wind developers and OEMs these barriers and perceptions remain - meaning that even those investors appear to follow the general Clean Tech investment trends. More broadly, investor knowledge of the sector is poor (the offshore renewables sector is seen as complex, high risk and capital intensive) and the absence of dedicated offshore renewables funds mean competition with other “on trend” Clean Tech investments.
+Access to test and demonstration facilities:
+Innovators need to be able to test their solutions in a representative environment as they develop their technological readiness, either by structured access to a commercial Offshore Wind Farm or access to dedicated test and demonstration facilities. The same applies to de-risking and diagnostic activity. HMG has historically supported the development of dedicated Offshore Wind test facilities at the National Renewable Energy Centre in Blyth, Northumberland; and for wider offshore renewables, the European Marine Energy Centre (EMEC) in Orkney. If these facilities are to maintain their world leading status and keep pace with cutting edge wind turbine technology, as well as support the development of FLOW, they will need to evolve and develop, including by facilitating know-how transfer from businesses in other manufacturing industries which may have relevant technological expertise but are not actively targeting Offshore Wind. Without appropriate test and demonstration arrangements, the UK will miss the opportunity to secure and embed high value and lasting knowledge from associated innovations.
+Industry cooperation and data sharing:
+Before an innovative solution can be developed there must be clarity and detail of the nature of challenge being addressed. In many cases such clarity only comes from the pooling of knowledge from across the industry, and this needs to be encouraged based on common industry data standards[footnote 39]. Topical examples include developing a better understanding of the causes and types of subsea cable failures and determining more accurately the impact Offshore Wind Farms have on the environment.
+Skills
+The UK is home to hundreds of supply chain companies. By 2030, it is expected there could be close to 100,000 jobs in offshore wind driven by £155bn of private sector investment.
+Unlocking private investment, Renewable UK, 2022
+The growth of the Offshore Wind sector – both development of the Offshore Wind Farms and the supply chains – offers an unprecedented opportunity for a range of new and attractive green jobs, across the UK. To meet the ambition of 50GW by 2030, OWIC figures from 2022 show that the industry will need a threefold increase from the current 27,000 to at least 100,000 employees by the end of the decade. To deliver change of this scale will require cooperation and coordination between industry, government and educational institutions, particularly at a regional level as those communities benefitting from this expansion will have the knowledge and resources to deliver the skilled recruits of the future, capable of exporting these skills and experience to global markets.
+Identifying the current skills gaps and shortages:
+Looking across the lifecycle of an Offshore Wind Farm, as well as the need to maintain the operational fleet, drive down costs and improve the productivity of the supply chain sector, OWIC has identified a range of skills gaps and shortages:
+Consenting – an increased need for environmental and biodiversity specialists for industry and statutory bodies, including Local Authorities, across the UK.
+Design and manufacture of core components including power generation, structures and power networks to support technology scale-up.
+Operation and Maintenance – Improving the efficiency of O&M, including digitisation and digitalisation roles, robotics and automation.
+High Voltage (HV) engineers and welders (noting that adjacent industries such as nuclear (power and submarines), EV’s, hydrogen and CCUS, have similar skills shortages).
+Creating and attracting a new workforce:
+There is a broad tapestry of initiatives being promoted by HMG, the Devolved Administrations, Local Government and industry (including the Energy Skills Alliance and other initiatives arising from the North Sea Transition Deal) to plug the anticipated skills and workforce gaps, all with slightly different audiences and all with slightly nuanced objectives. In addition, there is developer-led and project-by-project level skills activity taking place, although the overall allocation of responsibility for skills development between public and private sectors in this area lacks clarity. In parallel the global market for Offshore Wind related skills is becoming increasingly competitive as the industry ramps up in new geographies.
+HMG’s Green Job Delivery Group seeks to take a more strategic approach and has identified a number of focus areas, including renewables, which is being driven by the Power and Networks Working Group under the guidance of the Energy and Utility Skills Partnership (EUSP). Challenges these sectors face include issues with the STEM skills pipeline; competition for skills with other sectors; lack of diversity and inclusion in the sector; an aging workforce. In response, industry has asked for more agile upskilling and reskilling training.
+To start addressing these, the group published necessary head-start actions and principles in the Net Zero Workforce chapter of the Powering Up Britain: The Net Zero Growth Plan[footnote 40]. A suite of comprehensive workforce and skills actions will follow for these sectors by Summer 2023. This suite of comprehensive actions delivered by the Power and Networks Working Group will be published jointly by industry and government and commit to: identifying skills gaps, mapping routes to competence and working with IFATE, DfE, DWP and other agencies to ensure the provision of routes to competence and flexible modular training routes, as well as exploring wider workforce support options.
+Alongside this, HMG committed to publishing a joint government-industry Net Zero and Nature Workforce Action Plan in the first half of 2024, representing the culmination of several sectoral assessments in the coming 12 months. From Spring 2023, DESNZ will publish the Green Jobs Delivery Group’s biannual updates from the co-chairs bringing together these actions. And from 2023 HMG will improve data collected from net zero and environmental schemes on supporting green jobs data, including building a granular understanding of the geographic distribution of green jobs and their economic impact on places, and making as much of this information as possible available publicly.
+Similarly, the Welsh Government recently set out its Net Zero Skills Action Plan which aims to ensure a partnership approach, drawing on its social partnership way of working. The plan expressly recognises that the status quo is not sustainable, and the plan is the first step in helping to guide difficult decisions on business investment and planning, with education providers and public services.
+In Scotland, where skills policy is devolved, the Climate Emergency Skills Action Plan sets out a clear direction for the reorientation of the skills system, and signals the role that businesses, communities and individuals across Scotland will play in achieving this in support of ambitious decarbonisation targets.
+A NOTE ON YOUNG WIND FARMERS
+With three teenagers around our family dining table there’s plenty of discussion of universities, apprenticeships and careers in general.
+Lots of their generation seem very attracted to the idea of working in sustainable industries, and there are opportunities available right across the sector, but they don’t necessarily have a personal connection to the subject matter.
+As a pupil at Driffield School in the 1980s I went on school trips to power plants: coal-fired Drax and nuclear Sellafield. Maybe it’s not so surprising I went on to work in the energy projects world.
+How can the Offshore Wind industry replicate those experiences for the wind farmers of tomorrow?
+Offshore Wind Champion recommendations
+Recommendations to Government and Industry:
+A new Industrial Growth Plan should provide an overarching context for Offshore Wind innovation and skills, with innovation policy and skills development more strategically targeted around the priorities identified in the plan, together with a clear identification of public and private sector roles. The work done by the OWIC Innovation Workstream, including the Innovation Gap Analysis, will be a key building block for the plan.
+Recommendations to Government:
+In light of its importance to the UK’s Energy Security, HMG should consider Offshore Wind as a priority industry for significant long term innovation funding, in line with sectors such as civil nuclear.
+HMG should undertake a strategic review of UK-wide Offshore Wind test and demonstration facilities and their future funding and evolution, taking into account the UK’s dependency on Offshore Wind and its contribution to Energy Security.
+HMG should consider catalysing private sector funding of Offshore Wind innovation by seeding a dedicated fund similar to the Charging Infrastructure Investment Fund.[footnote 41]
+HMG and the Devolved Administrations should seek to integrate the outputs of the Green Jobs Delivery Group and equivalents with improved data and forecasting outputs from the Workforce Foresighting Hub (WFSH) being developed by InnovateUK and the Catapults, DfE’s Unit for Future Skills and devolved equivalents to create a complete picture of future skills requirements to meet the needs of Offshore Wind (and adjacent technologies such as nuclear (power and submarines), EVs, Hydrogen and CCUS), address emerging workforce gaps, and to help guide local and regional skills and workforce delivery strategies. The useful recommendations in EngineeringUK’s Net Zero Workforce (2022) report[footnote 42] also focus on improved use of data and forecasting in this area.
+Recommendations to Industry:
+Industry should continue its focus on diversity and inclusion.
+OWIC and OWGP should promote the development of an industry standard approach to technology demonstration agreements for innovators seeking access to commercial Offshore Wind Farms for testing and demonstration.
+Industry should encourage the existing Offshore Wind clusters formed as a result of the 2019 Sector Deal to continue to develop areas of regional expertise and specialisation. Regional clusters should have a focused ‘tagline’ to encourage specialisms, as well as collaboration and innovation within the region, which feed into the national Industrial Growth Plan.
+Industry should continue to support and enhance innovation links with academia.
+Glossary
+AR1: CfD allocation round 1 (2015)
+AR2: CfD allocation round 2 (2017)
+AR3: CfD allocation round 3 (2019)
+AR4: CfD allocation round 4 (2022)
+AR5: CfD allocation round 5 (2023)
+ASTI: Accelerated Strategic Transmission Investment
+CCGT: Combined Cycle Gas Turbine
+CES: Crown Estate Scotland
+CfD: Contract for Difference
+COWSC: Collaboration on Offshore Wind Strategic Compensation
+CSNP: Centralised Strategic Network Plan
+DBT: Department for Business and Trade
+DCO: Development Consent Order
+Defra: Department for Environment, Fisheries and Agriculture
+DESNZ: Department for Energy Security and Net Zero
+DfE: Department for Education
+DLUHC: Department for Levelling Up, Housing and Communities
+DSIT: Department for Science, Innovation and Technology
+ESO: Electricity System Operator
+FDI: Foreign Direct Investment
+FID: Final Investment Decision
+FLOW: Floating Offshore Wind
+FSO: Future System Operator
+GVA: Gross Value Add
+GWO: Global Wind Organisation
+Habitats Regulations: The Marine and Coastal Access Act 2009, the Marine (Scotland) Act 2010 and the Marine Act (Northern Ireland) 2013, and designate Special Areas of Conservation and Special Protection Areas under the Conservation of Habitat and Species Regulations 2017 in England and Wales, the Conservation of Offshore Habitats and Species Regulations 2017 in the United Kingdom offshore area, the Conservation (Natural Habitats &c.) Regulations 1994 (as amended) in Scotland and the Conservation (Natural Habitats, &c) Regulations (Northern Ireland) 1995 (as amended) in Northern Ireland.
+HMG: His Majesty’s Government
+IMCA: International Marine Contractors Association
+INTOG: Innovative and Targeted Oil and Gas
+IP: Intellectual Property
+MDX: Marine Data Exchange
+NPS: National Policy Statement
+NRW: Natural Resources Wales
+NSIP: Nationally Significant Infrastructure Project
+NSTA: North Sea Transition Authority
+OEM: Original Equipment Manufacturer
+Ofgem: Office of Gas and Electricity Markets
+OREC: Offshore Renewable Energy Catapult
+OWAT: Offshore Wind Acceleration Taskforce
+OWEC: Offshore Wind Evidence and Change programme
+OWEIP: Offshore Wind Environmental Improvement Package
+OWGP: Offshore Wind Growth Partnership
+OWIC: Offshore Wind Industry Council
+R&D: Research and Development
+Section 36 Consent: Consent under section 36 of the Electricity Act 1989
+SIM: Strategic Investment Model
+SMEs: Small and Medium-Sized Enterprises
+SNCBs: Statutory Nature Conservation Bodies, being Natural England, the Joint Nature Conservation Committee, Natural Resources Wales, DAERA and NatureScot
+SNIB: Scottish National Investment Bank
+SOWEC: Scottish Offshore Wind Energy Council
+TCE: The Crown Estate
+TNUOS: Transmission Network Use of System charges
+Transmission Owners: National Grid Transmission, SSE Networks and Scottish Power Networks
+UKIB: UK Infrastructure Bank
+Annex A: Offshore Wind Acceleration Taskforce (OWAT)
+List of organisations represented on OWAT
+Industry:
+BP
+Crown Estate Scotland
+National Grid ESO
+National Grid ET
+Octopus Energy
+Ofgem
+ORE Catapult
+Orsted
+OWIC
+RenewableUK
+RWE
+Scottish Power
+Shell
+SSE
+The Crown Estate
+Vattenfall
+Government:
+Department for Energy Security and Net Zero
+Department for Levelling Up, Housing and Communities
+Department for Environment, Food and Rural Affairs
+Scottish Government
+Welsh Government
+List of organisations represented on OWAT Supply Chain and Infrastructure Working Group
+Able UK
+Aker Offshore Wind
+Associated British Ports
+BP
+Energy Industries Council
+GE Grid Solutions
+Global Energy Group
+Global Marine Group
+JDR Cables
+ORE Catapult
+Orsted
+RenewableUK
+RWE (representing Chair of RUK Supply Chain Group)
+SeAH Wind
+Seaway 7
+Siemens Gamesa
+Smulders
+SSE Renewables
+Tees Valley Combined Authority
+Vestas
+List of organisations represented on OWAT Environmental Data Subgroup
+BP
+Defra
+Joint Nature Conservation Committee
+Marine Management Organisation
+Marine Scotland
+Natural England
+Natural Resources Wales
+Nature Scot
+North Sea Transition Authority
+Northern Ireland Government
+Octopus Energy
+Offshore Renewables Joint Industry Programme
+ORE Catapult
+Orsted
+Offshore Wind Industry Council Pathways 2 Growth
+Renewable UK
+Scottish Government
+The Crown Estate
+Welsh Government
+List of OWAT meetings
+28 February 2022
+27 April 2022
+20 May 2022
+22 June 2022
+14 July 2022
+28 July 2022
+6 September 2022
+16 September 2022
+5 October 2022
+25 October 2022
+9 November 2022
+22 November 2022
+5 December 2022
+12 January 2023
+7 February 2023
+27 February 2023
+15 March 2023
+28 March 2023
+Presented as a proportion of total UK power sector greenhouse gas emissions in 2022, see Annex A: Net Zero Strategy categories . ↩
+Levelised cost estimates based on the BEIS Electricity Generation Costs report 2020. ↩
+To put this in context, more than 6 GW of fixed bottom Offshore Wind had been deployed in the UK, and a further 3-4 GW contracted, before the CfD strike price dropped below £100/MWh in AR2. ↩
+Floating Offshore Wind in Wales - Welsh Affairs Committee (parliament.uk) ↩
+See the Climate Change Committee’s March 2023 report on Delivering a Reliable Decarbonised Power System (Delivering a reliable decarbonised power system - Climate Change Committee (theccc.org.uk)), as well as Regen’s excellent October 2022 Go West! analysis (Go West! An analysis of the energy system benefits and policy implications of a more geographically diverse offshore wind portfolio - Regen). ↩
+Gas and Electricity Transmission Infrastructure Outlook 2050, Guidehouse, (October 2022) ↩
+Decarbonising the power sector - National Audit Office (NAO) report ↩
+BloombergNEF forecasts 39.7GW offshore wind to be deployed in the UK by 2030 ↩
+The series legend (bar section colour) indicates the present development stage of that capacity. The year the capacity is present is when Energy Pulse expects commissioning. This chart takes into account forecasted decommissioning, seen by a slight decrease in the light green currently operational category. ↩
+See Annex A for organisations represented on OWAT, its Supply Chain and Infrastructure Working Group and Environmental Data Subgroup. ↩
+Source: European Marine Spatial Planning Platform ↩
+Source: NSEC Declaration September 2022 and Bloomberg New Energy Finance ↩
+Territorial sea and EEZ ↩
+Marine internal waters, territorial sea and EEZ ↩
+Atlantic, English Channel, North Sea and Mediterranean EEZ. Does not include France’s overseas territories. ↩
+Baltic Sea and North Sea internal waters, territorial waters and EEZ ↩
+Territorial sea and EEZ. ↩
+Internal waters, territorial sea, marine contiguous zone and EEZ ↩
+See also para 7.1.6 of the 2021 Strategic Investment Assessment prepared for SOWEC Professor Sir Jim McDonald, Principal and Vice Chancellor of the University of Strathclyde ↩
+Norfolk Boreas was impacted by the Covid-19 pandemic lockdowns. ↩
+East Anglia ONE North was impacted by the Covid-19 pandemic lockdowns. ↩
+NSEC UK MoU signed.pdf (europa.eu) ↩
+A Holistic Network Design for Offshore Wind, ESO (nationalgrideso.com) ↩
+Community benefits for electricity transmission network infrastructure - GOV.UK (www.gov.uk) ↩
+EY has recently conducted analysis of the reduction in the winning fixed bottom Offshore Wind CfD strike price levels in auctions AR1 to AR4 to assess the relative contribution of improvements in total capital costs against the evolution of the cost of capital as the industry has matured. It has considered the various sources available to EY, both public and private, to consider the question of what is the dominant cause of price reduction considering various assumption sets and scenarios. EY’s analysis suggests that the main drivers have been:
+Capital costs (~40%): Offshore Wind Farms have seen significant falls in the cost of components and installation as the technology has become more mature.
+Other costs (~40%): Offshore Wind Farms have seen reductions in ongoing costs including connection costs, O&M and insurance – partly driven by projects achieving economies of scale as well as project risks becoming better understood.
+Cost of capital (~10%): Investors required lower returns over this period as a result of increasing industry experience with the technology, as well as fierce competition for CfD contracts among strategic investors.
+Technical improvements (~10%): Offshore Wind Farms have benefitted from increasing load factors and longer expected asset lives.
+Offsetting increases: These reductions in project cost have been partly offset (~15%) by falling expectations for long term power prices, which has increased the proportion of project costs that developers seek to recover in the initial CfD phase of the project.
+↩
+It’s worth noting that the Non-Fossil Fuel Obligation, an earlier form of UK renewables subsidy allocated through price-only auctions, had a similar outcome. See, e.g. THE ENGLAND AND WALES NON-FOSSIL FUEL OBLIGATION: History and Lessons, Annual Review of Environment and Resources (annualreviews.org) ↩
+Esjberg Declaration - May 2022 ↩
+Joint Statement on the North Seas Energy Cooperation - September 2022 ↩
+Industry Roadmap 2040: Building UK Port Infrastructure to Unlock the Floating Wind Opportunity ↩
+Offshore Wind Skills Intelligence Report, Offshore Wind Industry Council (May 2022). ↩
+North Sea Transition Deal, Integrated People and Skills Strategy (OPITO, May 2022). ↩
+Industry Roadmap 2040: Building UK Port Infrastructure to Unlock the Floating Wind Opportunity ↩
+“The Inflation Reduction Act (IRA) of 2022 makes the single largest investment in climate and energy in American history, enabling America to tackle the climate crisis, advancing environmental justice, securing America’s position as a world leader in domestic clean energy manufacturing, and putting the United States on a pathway to achieving the Biden Administration’s climate goals, including a net-zero economy by 2050.” - The US Department of Energy, Inflation Reduction Act of 2022. ↩
+Source: EY ↩
+Floating Offshore Wind Manufacturing Investment Scheme - GOV.UK (www.gov.uk) ↩
+Energy Pathfinder ↩
+UK Innovation Strategy: leading the future by creating it - GOV.UK (www.gov.uk) ↩
+Global Clean Tech report 2023 ↩
+A good example of this is the anonymised operator benchmarking database for operational offshore wind farm production, operations, and reliability KPIs (SPARTA. ↩
+Powering Up Britain - The Net Zero Growth Plan - GOV.UK (www.gov.uk) ↩
+Charging Infrastructure Investment Fund - GOV.UK (www.gov.uk) ↩
+Net zero workforce 2022 (www.engineeringuk.com) ↩
+Is this page useful?
+Maybe
+Yes this page is useful
+No this page is not useful
+Thank you for your feedback
+Report a problem with this page
+Help us improve GOV.UK
+Do not include personal or financial information like your National Insurance number or credit card details.
+This field is for robots only. Please leave blank
+What were you doing?
+What went wrong?
+Send
+Cancel
+Help us improve GOV.UK
+To help us improve GOV.UK, we’d like to know more about your visit today.
+Please fill in this survey (opens in a new tab).
+Cancel
+Services and information
+Benefits
+Births, death, marriages and care
+Business and self-employed
+Childcare and parenting
+Citizenship and living in the UK
+Crime, justice and the law
+Disabled people
+Driving and transport
+Education and learning
+Employing people
+Environment and countryside
+Housing and local services
+Money and tax
+Passports, travel and living abroad
+Visas and immigration
+Working, jobs and pensions
+Government activity
+Departments
+News
+Guidance and regulation
+Research and statistics
+Policy papers and consultations
+Transparency
+How government works
+Get involved
+Support links
+Help
+Privacy
+Cookies
+Accessibility statement
+Contact
+Rhestr o Wasanaethau Cymraeg
+Government Digital Service
+All content is available under the Open Government Licence v3.0, except where otherwise stated

@@ -779,6 +779,11 @@ def _build_number_regex(num_str):
     but we never allow an arbitrary decimal tail.
     """
     esc = re.escape(num_str)
+    if "," in num_str:
+        # A claim may quote the grouped form ("1,073") while the page uses
+        # either that form or bare digits ("1073"). Accept both; the boundary
+        # guards still reject a different magnitude such as 10,000 for "10".
+        esc = "(?:" + esc + "|" + re.escape(num_str.replace(",", "")) + ")"
     return (
         r"(?<![\d.,])" + esc + r"(?:\.0+)?(?![\d])" + r"(?![.,]\d)"
     )
@@ -814,8 +819,7 @@ def _token_variants(token):
         if not part:
             continue
         if re.fullmatch(r"\d+(?:[.,]\d+)?", part):
-            num = part.replace(",", "")
-            pattern_pieces.append(_build_number_regex(num))
+            pattern_pieces.append(_build_number_regex(part))
         else:
             # Non-numeric run. Whitespace becomes "\s*" so "41 GW" == "41GW";
             # hyphens and dashes become a class that also eats a space, so
@@ -844,7 +848,12 @@ def _token_variants(token):
     if tok[0].isalnum():
         core = r"(?<![A-Za-z0-9])" + core
     if tok[-1].isalnum():
-        core = core + r"(?![A-Za-z0-9])"
+        if re.fullmatch(r"[\d.,]+", tok):
+            # A bare number may carry a compact unit ("£1,073m"). Allow only
+            # recognised short units, not arbitrary trailing letters.
+            core += r"(?:(?![A-Za-z0-9])|(?=(?:m|bn|k|t|%)(?![A-Za-z0-9])))"
+        else:
+            core = core + r"(?![A-Za-z0-9])"
 
     variants.append((re.compile(core, re.I), "literal"))
 

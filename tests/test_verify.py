@@ -189,6 +189,8 @@ def test_non_document_content_type_is_hard_fail(server):
         ("There are six projects.", "six projects", True),
         ("There are 6 projects.", "six projects", True),
         ("There are seven projects.", "six projects", False),
+ ("income reduced from £1,073m to £875m.", "1,073", True),
+ ("Revenue was 1,073 million pounds.", "1,073", True),
     ],
 )
 def test_number_boundary_containment(text, token, should_match):

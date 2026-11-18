@@ -81,7 +81,9 @@ The app was launched on `http://localhost:8501` and `/_stcore/health`
 returned `ok`. Streamlit `AppTest` drove the real UI through three cases:
 PASS with quoted span/SHA-256/`fetched_at`, FAIL with a numeric near miss,
 and UNVERIFIABLE for an unreachable source. The repository test suite passed
-with `44 passed, 1 skipped` (the skip is the opt-in live-network smoke test).
+with `46 passed, 1 skipped` (the skip is the opt-in live-network smoke test). The
+same engine verified all 12 sources in `001-the-sovereign-landlords` on
+2026-11-18: 12 PASS, 0 FAIL, 0 UNVERIFIABLE.
 
 Streamlit Cloud deployment has **not** been performed here: it requires the
 repository to be pushed to GitHub and a Streamlit Cloud account with access
